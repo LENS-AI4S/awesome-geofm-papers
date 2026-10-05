@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T00:20:17+00:00",
-  "fetched_this_run": 1787,
-  "records_total": 14057,
-  "graph_nodes": 1066,
-  "graph_links": 3731,
+  "generated_at": "2026-10-05T00:26:59+00:00",
+  "fetched_this_run": 1775,
+  "records_total": 14118,
+  "graph_nodes": 1034,
+  "graph_links": 3559,
   "graph_papers": 180,
   "sources": [
     "arxiv",
