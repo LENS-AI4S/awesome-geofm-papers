@@ -3895,6 +3895,260 @@
     "query": "\"place recognition\" satellite"
   },
   {
+    "id": "10.1145/3767308.3835006",
+    "source": "Crossref",
+    "title": "Rectifying and Consolidating Latent Diffusion for Remote Sensing Object Detection",
+    "authors": [
+      "Feiyi Li",
+      "Xiao Zhang",
+      "Wenda Zhao"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-06",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835006",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3835006",
+    "abstract": "",
+    "topics": [
+      "Detection",
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"remote sensing\" pretraining"
+  },
+  {
+    "id": "10.1145/3767308.3835758",
+    "source": "Crossref",
+    "title": "Imperceptible and Reversible Adversarial Examples against Vision-Language Models for Privacy Protection",
+    "authors": [
+      "Qi Lu",
+      "Ziqi Zhou",
+      "Yufei Song",
+      "Zijing Li",
+      "Lulu Xue",
+      "Minghui Li",
+      "Shengshan Hu",
+      "Leo Yu Zhang"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-06",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835758",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3835758",
+    "abstract": "",
+    "topics": [
+      "Vision-Language",
+      "Remote Sensing"
+    ],
+    "category": "Foundation Model",
+    "query": "\"vision-language\" \"remote sensing\""
+  },
+  {
+    "id": "10.1145/3767308.3835525",
+    "source": "Crossref",
+    "title": "Human-Centric Image Captioning with Subject-Centered Spatial Understanding",
+    "authors": [
+      "Bozhou Li",
+      "Jiahang Zhang",
+      "Yue Ding",
+      "Yushuo Guan",
+      "Bohan Zeng",
+      "Yiyan Ji",
+      "Xinlong Chen",
+      "Yang Shi",
+      "Yifan Dai",
+      "Yuran Wang",
+      "Chengzhuo Tong",
+      "Pengfei Wan",
+      "Yuanxing Zhang",
+      "Wentao Zhang"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-06",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835525",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3835525",
+    "abstract": "",
+    "topics": [
+      "Vision-Language",
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1145/3767308.3834934",
+    "source": "Crossref",
+    "title": "Environment-Aware Trajectory and Object-Location-Guided Refinement for Fine-grained Remote Sensing Change Captioning",
+    "authors": [
+      "Jia Liu",
+      "Qian Li",
+      "Kaiyi Zhang",
+      "Caoshengzhe Xue",
+      "Yaheng Wang",
+      "Jianing Wang",
+      "Cheng Ji",
+      "Shangguang Wang"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-06",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3834934",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3834934",
+    "abstract": "",
+    "topics": [
+      "Vision-Language",
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"remote sensing foundation model\""
+  },
+  {
+    "id": "10.1145/3767308.3836238",
+    "source": "Crossref",
+    "title": "SRD-Rectify: Super-Resolution Diffusion Model as a Rectifying Prior for Hyperspectral and Multispectral Image Fusion",
+    "authors": [
+      "Keli Deng",
+      "Yiming Hu",
+      "Yuntao Qian"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-05",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3836238",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3836238",
+    "abstract": "",
+    "topics": [
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geospatial foundation model\""
+  },
+  {
+    "id": "10.1145/3767308.3837705",
+    "source": "Crossref",
+    "title": "SFD-Fuse: Spatial-Frequency Decoupled Fusion Attack for Deepfake Detection",
+    "authors": [
+      "Mingyue He",
+      "Qisheng Xu",
+      "Xuyao Deng",
+      "Yulu Fang",
+      "Hui Geng",
+      "Kele Xu"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-05",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3837705",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3837705",
+    "abstract": "",
+    "topics": [
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1145/3767308.3835974",
+    "source": "Crossref",
+    "title": "IRAA: Information Redistribution Adversarial Attacks for Multimodal Object Detection",
+    "authors": [
+      "Sixu Liu",
+      "Yanan You",
+      "Jie Yang"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-05",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835974",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3835974",
+    "abstract": "",
+    "topics": [
+      "Vision-Language",
+      "Detection",
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"multimodal\" satellite"
+  },
+  {
+    "id": "10.1145/3767308.3842136",
+    "source": "Crossref",
+    "title": "Deepfake Forensics Workshop (DFF-2026): Detection, Attribution, Recognition, and Adversarial Challenges in the Era of AI-Generated Media",
+    "authors": [
+      "Luca Guarnera",
+      "Francesco Guarnera",
+      "Giovanni Puglisi",
+      "Zahid Akhtar",
+      "Fernando Pérez-González",
+      "Sebastiano Battiato"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-05",
+    "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3842136",
+    "pdf_url": "",
+    "doi": "10.1145/3767308.3842136",
+    "abstract": "",
+    "topics": [
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"place recognition\" satellite"
+  },
+  {
+    "id": "10.1145/3840471.3842594",
+    "source": "Crossref",
+    "title": "Adapting Spatial Organization Consistency for Cross-Modal Medical Anomaly Detection",
+    "authors": [
+      "Chengzhi Cao",
+      "Min Xu"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-04",
+    "venue": "Proceedings of the 3rd International Workshop on Multimedia Computing for Health and Medicine",
+    "url": "https://doi.org/10.1145/3840471.3842594",
+    "pdf_url": "",
+    "doi": "10.1145/3840471.3842594",
+    "abstract": "",
+    "topics": [
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1145/3840473.3840510",
+    "source": "Crossref",
+    "title": "From Detection to Localization: A Unified Forensics Framework for Fully Synthetic and Tampered Images",
+    "authors": [
+      "Annalisa Gallina",
+      "Marco Fiorucci",
+      "Marco Brigo",
+      "Federica Battisti",
+      "Lamberto Ballan"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-03",
+    "venue": "Proceedings of the 2nd Deepfake Forensics Workshop: Detection, Attribution, Recognition, and Adversarial Challenges in the Era of AI-Generated Media",
+    "url": "https://doi.org/10.1145/3840473.3840510",
+    "pdf_url": "",
+    "doi": "10.1145/3840473.3840510",
+    "abstract": "",
+    "topics": [
+      "Uncategorized"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geo-localization\" satellite"
+  },
+  {
     "id": "10.1364/ao.611606",
     "source": "Crossref",
     "title": "Polarimetric image restoration with adaptive backscatter light estimation and angle of polarization-based color correction",
@@ -3917,6 +4171,81 @@
     ],
     "category": "Downstream Task",
     "query": "\"ground to satellite\" image"
+  },
+  {
+    "id": "10.33603/jurnaltuturan.v15i2.12984",
+    "source": "Crossref",
+    "title": "PENERAPAN JURNAL INVESTIGASI BERBASIS PENDEKATAN MULTIMODAL UNTUK MENDORONG PARTISIPASI MURID DALAM PEMBELAJARAN HIKAYAT KELAS X",
+    "authors": [
+      "Sabrina Nur Fauziah",
+      "Rusnawati"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "venue": "Jurnal Tuturan",
+    "url": "https://doi.org/10.33603/jurnaltuturan.v15i2.12984",
+    "pdf_url": "",
+    "doi": "10.33603/jurnaltuturan.v15i2.12984",
+    "abstract": "Partisipasi murid dalam pembelajaran hikayat kerap dibaca sebatas keberanian berbicara sehingga keterlibatan melalui tindakan belajar kurang terpetakan. Penelitian ini bertujuan mendeskripsikan perubahan partisipasi murid kelas X-2 SMAN 7 Cirebon sebelum dan sesudah penerapan Jurnal Investigasi berbasis pendekatan multimodal. Penelitian menggunakan pendekatan kuantitatif dengan desain pra-eksperimen one-group pretest-posttest pada 38 murid. Partisipasi diamati melalui lembar observasi 12 indikator dalam empat dimensi, dengan tiga indikator berbasis tuturan dan sembilan berbasis tindakan, menggunakan skala 1–4. Data dianalisis secara deskriptif, sedangkan uji Wilcoxon digunakan sebagai analisis inferensial pendukung. Rerata skor partisipasi meningkat dari 1,92 (48,08%; kategori rendah) menjadi 2,74 (68,59%; kategori tinggi). N-Gain yang dilaporkan sebesar 0,39 (kategori sedang), tetapi ditafsirkan sebagai ukuran deskriptif eksploratif karena skor berasal dari observasi ordinal. Sebanyak 31 dari 38 murid mengalami peningkatan skor, sedangkan 11 murid memiliki N-Gain rendah. Menanggapi gagasan teman secara lisan tetap menjadi indikator terendah. Karena penelitian tidak menggunakan kelompok pembanding dan pengamatan dilakukan oleh satu orang, hasil tidak dapat disimpulkan sebagai pengaruh kausal perlakuan. Temuan ini memberikan gambaran awal yang perlu diuji melalui pengukuran yang lebih setara dan reliabel.",
+    "topics": [
+      "Vision-Language",
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"multimodal\" satellite"
+  },
+  {
+    "id": "10.1515/dx-2026-0022",
+    "source": "Crossref",
+    "title": "Cervical lymph node image analysis using YOLO11 segmentation model: an application and performance study",
+    "authors": [
+      "Xuanbai Yu",
+      "Cuijuan Lou",
+      "Ruiting Wang",
+      "Cancan Zhang",
+      "Yunyun Bai",
+      "Hongxia Wu",
+      "Zhongqian Xuan",
+      "Yamin Li"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-06",
+    "venue": "Diagnosis",
+    "url": "https://doi.org/10.1515/dx-2026-0022",
+    "pdf_url": "",
+    "doi": "10.1515/dx-2026-0022",
+    "abstract": "Abstract Objectives Ultrasound assessment of superficial cervical lymph nodes is clinically valuable, yet current diagnostic methods are highly operator-dependent, with limited objectivity and consistency. This study investigates a more objective approach for analyzing lymph node ultrasound images, focusing on the stability and practical applicability of different model architectures on real-world clinical data. It aims to evaluate the utility of deep learning models for detection and segmentation of superficial lymph nodes and to provide a feasible methodology for objective lymph node ultrasound analysis. Methods Using real-world clinical data, a cervical lymph node ultrasound image dataset comprising 1,050 patients was constructed, with histopathological confirmation and standardized clinical-imaging follow-up (≥50 % diameter reduction over 6–9 months after treatment) serving as reference standards. Three different models – transformer-based RF-DETR, two-stage YOLO11+MedSAM, and end-to-end YOLO11-Seg – were systematically compared on detection and segmentation tasks within the same dataset. Results YOLO11-Seg demonstrated superior performance in both detection and segmentation. Under COCO evaluation metrics, it achieved an mean average precision (mAP) at 0.5 of 0.795 and an mAP at 0.5:0.95 of 0.558. Pixel-level segmentation evaluation yielded a Dice coefficient of 0.775 ± 0.15 and an IoU of 0.645 ± 0.15, with Precision and Recall values of 0.796 and 0.783, respectively. In contrast, the two-stage YOLO11+MedSAM and Transformer-based models exhibited lower accuracy and reduced consistency. Conclusions This study provides preliminary evidence for the application of deep learning–based methods in lymph node ultrasound analysis and suggests a potential technical framework for generating structured imaging data, which may support future computer-assisted assessment pending further validation.",
+    "topics": [
+      "Segmentation",
+      "Geospatial AI",
+      "Data"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geospatial foundation model\""
+  },
+  {
+    "id": "10.47941/je.4089",
+    "source": "Crossref",
+    "title": "Remote Sensing and Ensemble Machine Learning for Illegal Dumpsite Susceptibility Mapping: A Review",
+    "authors": [
+      "Victor Ayodele Ijaware",
+      "Simeon Oluwole Ogunlade",
+      "Joshua Ojotule Salifu"
+    ],
+    "published": "2026-11-08",
+    "updated": "2026-11-08",
+    "venue": "Journal of Environment",
+    "url": "https://doi.org/10.47941/je.4089",
+    "pdf_url": "",
+    "doi": "10.47941/je.4089",
+    "abstract": "Purpose: This review asks whether, and under what conditions, combining satellite remote sensing with machine learning, and ensemble learning in particular, improves the mapping of illegal-dumpsite susceptibility, and where the evidence for that claim is still missing, with emphasis on sub-Saharan Africa and Nigeria. Methodology: A structured narrative review with a non-systematic, purposive selection of studies was carried out. Candidate studies published from 2000 to 2026 were identified through targeted keyword searches of scholarly databases and search engines (Google Scholar, Scopus-indexed journals and African Journals Online), combining dumping terms (illegal dump, illegal landfill, dumpsite) with remote-sensing, susceptibility and machine-learning terms, and through citation chasing from recent surveys. Empirical studies that detected dumpsites or mapped dumping susceptibility with remote-sensing or GIS predictors and reported a validation outcome were included, and each was appraised for source type and validation design. Twenty-one empirical studies (16 international detection and susceptibility studies and 5 Nigerian studies) were synthesised, supported by methodological literature. Findings: Susceptibility studies outside Africa report strong discrimination with comparatively simple models (logistic regression, overall accuracy 92–94%; discriminant analysis, AUC 0.97–0.98), and the largest head-to-head comparison (seven classifiers on the same data) found AUC values within a narrow range (0.86–0.89). The two African susceptibility studies (Dakar, Blantyre) used expert-weighted multicriteria analysis rather than machine learning. Only one study used spatial cross-validation, none used a stacking ensemble, and no Nigerian study has modelled susceptibility predictively. Unique Contribution to Theory, Policy and Practice: Unlike recent surveys that focus on detecting waste in imagery, this review compares susceptibility-mapping methods on their reported performance and validation practice, maps the regional evidence gap for Nigeria, and sets out minimum standards (simple-model baselines, spatial validation and treatment of pseudo-absences) that future ensemble studies must meet before ensembles can be recommended to waste-management authorities.",
+    "topics": [
+      "Segmentation",
+      "Remote Sensing",
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"remote sensing\" pretraining"
   },
   {
     "id": "10.1051/0004-6361/202660365",
@@ -75432,40 +75761,6 @@
     ],
     "category": "Foundation Model",
     "query": "\"earth observation\" pretraining"
-  },
-  {
-    "id": "https://openalex.org/W7169666158",
-    "source": "OpenAlex",
-    "title": "Wildfire digital twins: a paradigm shift from monitoring systems to intelligent decision infrastructures",
-    "authors": [
-      "Chaowei Yang",
-      "Anusha Srirenganathan Srirenganathanmalarvizhi",
-      "Qunying Huang",
-      "Manzhu Yu",
-      "Rakshita Chidananda",
-      "Mohammad Pourhomayoun",
-      "Joe Roberts",
-      "George W. Chang",
-      "Sina Hasheminassab",
-      "Grace Llewellyn",
-      "Olga Kalashnikova"
-    ],
-    "published": "2026-09-29",
-    "updated": "2026-10-04",
-    "venue": "International Journal of Digital Earth",
-    "url": "https://doi.org/10.1080/17538947.2026.2738488",
-    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17538947.2026.2738488?needAccess=true",
-    "doi": "10.1080/17538947.2026.2738488",
-    "abstract": "Wildfires are becoming more frequent, severe, and complex driven by global warming and climate change, posing escalating threats to ecosystems, infrastructure, public health, and community safety worldwide. Recent advances in Earth observation, artificial intelligence, physics-based modelling, and cyberinfrastructure have accelerated the development of wildfire digital twins (WFDTs), yet existing capabilities remain fragmented across monitoring, fusion, prediction, simulation, and decision support. Unlike prior reviews that primarily address individual aspect of wildfire, this review and vision paper provides an integrated synthesis of WFDTs. We propose a six-layer WFDT architecture, identify six core capabilities spanning situational awareness through adaptive learning, and organise applications across the wildfire lifecycle from prevention and detection to response, smoke management, and post-fire recovery. Building upon these advances, we outline a research roadmap toward autonomous WFDTs through advances in hybrid intelligence, trustworthy AI, uncertainty quantification, decision intelligence, and continual learning. We envision that the defining characteristic of future WFDTs is not increasingly realistic digital representation, but their evolution into a new paradigm that continuously integrates sensing, prediction, uncertainty quantification, optimisation, governance, and human expertise towards a paradigm of intelligent, trustworthy decision infrastructures that continuously support human-centred wildfire decision making.",
-    "topics": [
-      "Prediction",
-      "Remote Sensing",
-      "Geospatial AI",
-      "Disaster",
-      "Ecology"
-    ],
-    "category": "Downstream Task",
-    "query": "\"earth observation\" multimodal"
   },
   {
     "id": "https://openalex.org/W7214785442",
@@ -389206,6 +389501,27 @@
     ],
     "category": "Foundation Model",
     "query": "\"Earth observation foundation model\""
+  },
+  {
+    "id": "983c1b52d9d9024bbd308a77cf90c5aadbca5882",
+    "source": "Semantic Scholar",
+    "title": "Deep learning for earth observation: on feature reliance, representation learning and label noise",
+    "authors": [
+      "Tom Burgert"
+    ],
+    "published": "2026-01-01",
+    "updated": "",
+    "venue": "",
+    "url": "https://www.semanticscholar.org/paper/983c1b52d9d9024bbd308a77cf90c5aadbca5882",
+    "pdf_url": "",
+    "doi": "",
+    "abstract": "",
+    "topics": [
+      "Foundation Models",
+      "Remote Sensing"
+    ],
+    "category": "Foundation Model",
+    "query": "\"earth observation\" \"representation learning\""
   },
   {
     "id": "74fd7ca1a38c6b9cb242062d5d3366a71368eca3",
