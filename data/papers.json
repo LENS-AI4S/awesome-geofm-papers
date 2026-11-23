@@ -3681,6 +3681,31 @@
     "query": "\"remote sensing\" pretraining"
   },
   {
+    "id": "10.1007/s00530-026-02809-6",
+    "source": "Crossref",
+    "title": "EHECC-YOLO: explicit high-frequency enhancement and cross-scale collaboration for lightweight small object detection in aerial images",
+    "authors": [
+      "Shuaikai Li",
+      "Sulan Zhang",
+      "Yanfeng Li",
+      "Fei Wang",
+      "Xin Wen"
+    ],
+    "published": "2026-12-01",
+    "updated": "2026-11-22",
+    "venue": "Multimedia Systems",
+    "url": "https://doi.org/10.1007/s00530-026-02809-6",
+    "pdf_url": "",
+    "doi": "10.1007/s00530-026-02809-6",
+    "abstract": "",
+    "topics": [
+      "Detection",
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"cross-view matching\" satellite"
+  },
+  {
     "id": "10.1007/s00520-026-11504-1",
     "source": "Crossref",
     "title": "Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer",
@@ -4506,6 +4531,315 @@
     ],
     "category": "Downstream Task",
     "query": "\"geo-localization\" satellite"
+  },
+  {
+    "id": "10.15420/usc.2025.22",
+    "source": "Crossref",
+    "title": "Multimodal Imaging in Pericardial Disease: Integrating Echocardiography, Cardiac MRI, Cardiac CT, and Nuclear Imaging with Novel Tracers",
+    "authors": [
+      "Ashley Lynne Ciosek",
+      "Murray Graeme Coetzee",
+      "Panagiota Christia",
+      "Justin Johannesen",
+      "Gina Lazzara",
+      "James Lukas Laws",
+      "Bruno Bezerra Lima",
+      "Tania Ruiz Maya"
+    ],
+    "published": "2026-11-23",
+    "updated": "2026-11-20",
+    "venue": "US Cardiology Review",
+    "url": "https://doi.org/10.15420/usc.2025.22",
+    "pdf_url": "",
+    "doi": "10.15420/usc.2025.22",
+    "abstract": "Accurate diagnosis of pericardial diseases can be challenging. Appropriately selected imaging studies to evaluate pericardial disease can refine diagnosis and therapeutic decision-making, provide value-based care by preventing unnecessary testing, and potentially avoid invasive procedures. For clinical scenarios with hemodynamic consequences, evaluation with high-temporal-resolution echocardiography or cardiac MRI (CMR), which enables simultaneous respirophasic evaluation, will have the highest diagnostic yield. When suspecting inflammatory pericardial disease, CMR or nuclear imaging are particularly sensitive. For pericardial calcification, such as in patients with a history of prior radiation, or when suspecting malignant pericardial involvement, cardiac CT provides excellent anatomic detail for treatment planning. This review highlights the strengths and limitations of each imaging modality and discusses how their integration optimizes diagnostic yield, guiding both medical and procedural management. The authors provide a needed overview of established and emerging CMR techniques, including Dixon fat–water separation, 3D late gadolinium enhancement, and native T1 mapping for effusion characterization, as well as a practical clinical overview on the diagnostic imaging sequence specific to evaluating different clinical scenarios.",
+    "topics": [
+      "Vision-Language",
+      "Remote Sensing",
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"multimodal\" satellite"
+  },
+  {
+    "id": "10.1680/jmacr.26.00169",
+    "source": "Crossref",
+    "title": "Evolution of drying shrinkage cracks in concrete: a quantitative study based on digital image analysis",
+    "authors": [
+      "Mingqin Yang",
+      "Ranhui Zhang",
+      "Xinzhe Li",
+      "Xiuhua Chen",
+      "Jiamin Yu",
+      "Yu Zhou"
+    ],
+    "published": "2026-11-23",
+    "updated": "2026-11-20",
+    "venue": "Magazine of Concrete Research",
+    "url": "https://doi.org/10.1680/jmacr.26.00169",
+    "pdf_url": "",
+    "doi": "10.1680/jmacr.26.00169",
+    "abstract": "Early-age drying shrinkage cracking can substantially weaken concrete durability. Conventional restrained shrinkage test devices and traditional crack-detection techniques have limitations in characterising the spatiotemporal evolution of full-surface cracks in large slab specimens. In this study, a dynamic crack-quantification method integrating OpenCV-based pre-processing and the YoloV5-seg segmentation model was developed. Restrained slab specimens of size 600 mm × 600 mm × 60 mm were used for single-sided drying tests, and three-zone and five-zone partitioning schemes were adopted to quantify zonal cracking characteristics. The effects of the water/binder (w/b) ratio, silica fume (SF) and slag (SG) replacement levels, ambient temperature and internal restraint configuration on cracking behaviour were quantitatively investigated. The results showed that reducing the w/b ratio increased final cracking severity and led to centrally concentrated cracking, but delayed initial crack formation within the tested range. SF increased early-age cracking risk, whereas SG delayed crack onset and promoted a more homogeneous spatial crack distribution. Elevated-temperature exposure shortened the initial cracking time and induced multi-stage abrupt crack growth, while X-type internal reinforcement exhibited better crack-mitigation performance than grid-shaped J-type internal restraint.",
+    "topics": [
+      "Segmentation",
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"ground to satellite\" image"
+  },
+  {
+    "id": "10.70445/gtst.2.5.2026.92-107",
+    "source": "Crossref",
+    "title": "&lt;b&gt;Artificial Intelligence in Cybersecurity: From Threat Detection to Autonomous Defense&lt;/b&gt;",
+    "authors": [
+      "Fnu Mohisn"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-23",
+    "venue": "Global Trends in Science and Technology",
+    "url": "https://doi.org/10.70445/gtst.2.5.2026.92-107",
+    "pdf_url": "",
+    "doi": "10.70445/gtst.2.5.2026.92-107",
+    "abstract": "Cybersecurity is being revolutionized by Artificial Intelligence (AI), which provides the tools necessary for intelligent, adaptive, and automated solutions to detecting and responding to cyber threats. This review explores the use of AI in cybersecurity, covering the role and techniques of machine learning, detection of malware and phishing attacks, intrusion detection, intelligent security monitoring, anomaly detection, and automated incident response. Key challenges such as data quality, adversarial attack, false positive, privacy, ethics, and lack of model explain ability are also discussed. In addition, future directions towards autonomous and adaptive cyber defense are examined. AI has the power to enhance cybersecurity, but it must be used responsibly, monitored by humans, and continually improved.",
+    "topics": [
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1117/12.3139211",
+    "source": "Crossref",
+    "title": "Piano improvisation accompaniment interaction method based on multisource perception fusion and spatial audio anchor mapping",
+    "authors": [
+      "Libin Zheng"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS 2026)",
+    "url": "https://doi.org/10.1117/12.3139211",
+    "pdf_url": "",
+    "doi": "10.1117/12.3139211",
+    "abstract": "In order to solve the problems of difficulty in locating the source of errors and the lack of spatial orientation of feedback prompts in piano improvisation accompaniment teaching, a teaching interactive system based on AR spatial audio annotation was designed. The system accesses MIDI performance events, audio frames and AR terminal poses to construct performance state, task constraints and spatial perception data streams. The accompaniment state is extracted by event recognition, harmony rhythm tracking and deviation detection. The harmony, rhythm and texture deviation are mapped into three-dimensional spatial audio anchors, and the cue location, sound source strength and duration are generated according to the deviation intensity. The experiment is carried out based on 46 groups of improvised accompaniment task sequences, including 38,216 MIDI events, 92000 frames of audio data and 110,400 frames of AR pose data. The results show that the accuracy of event recognition reaches 95.3%, the accuracy of harmony recognition reaches 92.1%, and the average feedback delay is 86.4 ms, which can meet the needs of real-time interaction in improvisation accompaniment teaching.",
+    "topics": [
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1117/12.3139872",
+    "source": "Crossref",
+    "title": "Multisource heterogeneous data-driven hotel operation status perception and intelligent optimization model",
+    "authors": [
+      "Yunze Chen"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS 2026)",
+    "url": "https://doi.org/10.1117/12.3139872",
+    "pdf_url": "",
+    "doi": "10.1117/12.3139872",
+    "abstract": "As hotel digital transformation progresses more deeply, a wide variety of data—such as hotel operational data, OTA bookings, review data, and IoT device sensor data—are continuously generated. However, most existing hotel operational optimization methods rely primarily on single structured data sources and are unable to perform deep collaborative processing across multiple types of heterogeneous information, thereby leading to imprecise decision-making. To address this issue, this paper proposes a shared semantic space-based heterogeneous data fusion and multi-task collaborative optimization algorithm designed for hotel operational optimization. First, a three-tier progressive architecture consisting of data ingestion, feature fusion, and operational decision-making is established; a shared semantic space is utilized to unify various types of features and apply standardization processing to them. Second, an improved cross-modal attention module incorporating a gating mechanism is designed, using structured operational data as an anchor to achieve semantic alignment and adaptive fusion of structured, semi-structured, and unstructured features. Finally, a multi-task collaborative optimization model is constructed based on the fused features, leveraging multi-task learning to simultaneously support three primary operational objectives: guest flow prediction, energy consumption optimization, and service quality evaluation. Based on real operational data from a chain hotel in Chengdu and two publicly available datasets, the results demonstrate that the proposed method outperforms approaches relying on a single data source and surpasses traditional fusion schemes; specifically, the MAPE value is 29.5% lower than that obtained with a single data source, the energy-saving rate is 12.3% higher than that achieved through feature concatenation, and the service quality evaluation accuracy is 9.5% higher than that of feature concatenation. Additionally, the method exhibits advantages in terms of cross-sector generalizability and deployment efficiency, providing robust technical support for refined hotel operations and intelligent decision-making.",
+    "topics": [
+      "Prediction",
+      "Geospatial AI",
+      "Data"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geospatial foundation model\""
+  },
+  {
+    "id": "10.1117/12.3139869",
+    "source": "Crossref",
+    "title": "Multimodal environmental reliability assessment and microstructural failure mechanism analysis of ultrasonic welded copper wire harness joints",
+    "authors": [
+      "Haojin Wang"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS 2026)",
+    "url": "https://doi.org/10.1117/12.3139869",
+    "pdf_url": "",
+    "doi": "10.1117/12.3139869",
+    "abstract": "Ultrasonic welding has become the predominant solid-state joining technology for high-voltage copper wire harnesses in new energy vehicles (NEVs), owing to its low-temperature, high-efficiency, and spatter-free characteristics. However, welded joints are continuously exposed to complex service environments involving mechanical vibration, thermal cycling, and high humidity, which can induce progressive degradation of contact resistance and interfacial integrity. This study investigates the environmental reliability and failure mechanisms of ultrasonic welded copper wire harness / silver-plated copper terminal joints through multi-modal accelerated aging experiments. Mechanical vibration impact and temperaturehumidity alternating cycle tests were conducted to simulate realistic NEV service conditions. Advanced characterization techniques, including optical microscopy (OM), scanning electron microscopy (SEM), electron backscatter diffraction (EBSD), and energy dispersive X-ray spectrometry (EDAX), were employed to systematically analyze the microstructural degradation, chemical element diffusion, and grain boundary evolution of the joints under different environmental stresses. Experimental results reveal that the ultrasonic welding interface exhibits pronounced spatial inhomogeneity, with edge \"welding blind zones\" serving as preferential initiation sites for fatigue delamination. The temperature-humidity alternating cycle induces significantly more severe damage than mechanical vibration alone, primarily through synergistic electrochemical corrosion and oxide volumetric expansion mechanisms. These findings provide theoretical foundations and technical references for optimizing ultrasonic welding processes and improving the structural reliability of NEV electrical connection systems.",
+    "topics": [
+      "Vision-Language",
+      "Geospatial AI"
+    ],
+    "category": "Downstream Task",
+    "query": "\"multimodal\" satellite"
+  },
+  {
+    "id": "10.1117/12.3139427",
+    "source": "Crossref",
+    "title": "Model predictive control used for rolling optimal scheduling of energy storage resources in virtual power plants",
+    "authors": [
+      "Lu Xie"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS 2026)",
+    "url": "https://doi.org/10.1117/12.3139427",
+    "pdf_url": "",
+    "doi": "10.1117/12.3139427",
+    "abstract": "The high penetration of renewable energy exposes virtual power plants to source-load forecast errors, state-of-charge constraints and cross-market opportunity costs. To avoid treating energy storage as a zero-cost peak-valley arbitrage device, this paper develops a model-predictive-control-based rolling scheduling method that embeds battery variable-cost pricing and coordinated participation in the spot and frequency-regulation markets. Replacement cost, cycle life, depth of discharge, round-trip efficiency, state of health and variable operation and maintenance cost are mapped into the marginal charge-discharge cost. The minimum acceptable spot price spread and regulation mileage price are derived and updated every 15 min. A joint decision model allocates the 0.50 MW converter capacity between energy trading and regulation reserve within a 4 h prediction horizon, executes only the first control action and corrects the state with measurements. For a 2.0 MW·h storage system, the base variable cost is 0.192 yuan/kWh, the minimum spot spread is 0.220 yuan/kWh, and the minimum mileage price is 1.68 yuan/MW. The coordinated strategy obtains a net income of 1169 yuan, 72.2% and 68.0% higher than the spot-only and regulation-only modes, respectively, while maintaining a 100.0% SOC constraint satisfaction rate. The method provides a cost-grounded decision basis for multi-market rolling operation of storage resources in virtual power plants.",
+    "topics": [
+      "Prediction",
+      "Geospatial AI",
+      "Urban"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geospatial foundation model\""
+  },
+  {
+    "id": "10.1117/12.3136794",
+    "source": "Crossref",
+    "title": "Lightweight YOLOv8 steel surface defect detection based on CycleGAN data enhancement and cross space attention",
+    "authors": [
+      "Ruolin Du"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS 2026)",
+    "url": "https://doi.org/10.1117/12.3136794",
+    "pdf_url": "",
+    "doi": "10.1117/12.3136794",
+    "abstract": "Steel surface quality is critical to its physical properties, and defect detection is essential for high-quality steel production. However, current YOLO models suffer from high missed detection rates in complex backgrounds with small defects (especially \"crazing\"), and face deployment challenges on edge equipment. This paper presents a lightweight defect detection algorithm YOLOv8s CGE based on CycleGAN and EMA (efficient multi scale attention). Firstly, aiming at the problem of lack of samples in the original data set, CycleGAN unsupervised generation confrontation network is introduced for style migration to expand the defect samples in complex background. Secondly, the EMA cross space attention mechanism is added at the end of the backbone network of YOLOv8s to enhance the ability of the network to capture the spatial topology of extremely small and irregular crazing without channel dimensionality reduction. Experimental results show that on NEU-DET dataset, after 200 rounds of full convergence, the algorithm not only keeps the parameters of YOLOv8s only 43% of that of YOLOv8m, but also achieves a significant improvement in the recall rate and average precision, with the global mAP50 reaching 77.8%. In the category of \"crazing\" which is extremely difficult to detect, mAP50 jumped to 54.3%, and the recall rate rose to 44.3%. YOLOv8s-CGE model not only maintains the lightweight structure of YOLOv8s, but also realizes the cross level improvement of the detection ability of fine defects, which has high engineering value.",
+    "topics": [
+      "Segmentation",
+      "Geospatial AI",
+      "Data"
+    ],
+    "category": "Downstream Task",
+    "query": "\"cross-view matching\" satellite"
+  },
+  {
+    "id": "10.1038/s41597-026-08651-9",
+    "source": "Crossref",
+    "title": "LangFabric: A Language-Annotated Multimodal Fabric Dataset for Fabric Defect Detection",
+    "authors": [
+      "Yan-Qin Ni",
+      "Pei-Kai Huang",
+      "Tz-Gang Wang",
+      "Wei-Jen Wang",
+      "Deron Liang",
+      "Chia-Yu Lin"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "Scientific Data",
+    "url": "https://doi.org/10.1038/s41597-026-08651-9",
+    "pdf_url": "",
+    "doi": "10.1038/s41597-026-08651-9",
+    "abstract": "Abstract Fabric defect detection plays a critical role in intelligent textile manufacturing, where reliable identification of surface anomalies is essential for maintaining product quality and production efficiency. Although numerous fabric defect datasets have been proposed, existing resources primarily focus on visual modalities and lack structured semantic descriptions of defects, limiting their applicability to emerging vision-language learning paradigms. To address this limitation, we introduce LangFabric , the first language-annotated multimodal fabric dataset designed for fabric defect detection in real textile production environments. LangFabric consists of 6,384 paired samples, each comprising a high-resolution fabric image and a corresponding structured textual description. The dataset covers 16 distinct fabric texture categories and 12 defect types, including both structural and non-structural anomalies. In addition to pixel-level semantic segmentation masks for precise defect localization, each image is annotated with structured textual prompts describing defect category, structural attributes, spatial location, and relative size. The data are collected inline from an industrial air-jet loom under realistic manufacturing conditions, ensuring practical variability in texture patterns and illumination. By systematically integrating visual and linguistic modalities, LangFabric provides a comprehensive benchmark for multimodal fabric defect analysis, research on anomaly detection, one-class learning, and vision-language alignment research under realistic industrial data distributions. We anticipate that LangFabric will facilitate the development of more robust, interpretable, and semantically-aware industrial inspection systems.",
+    "topics": [
+      "Vision-Language",
+      "Segmentation",
+      "Geospatial AI",
+      "Data",
+      "Benchmark"
+    ],
+    "category": "Benchmark",
+    "query": "\"vision-language\" \"remote sensing\""
+  },
+  {
+    "id": "10.31234/osf.io/4v6du",
+    "source": "Crossref",
+    "title": "Auditory-perceptual deficits and speech illusions are associated with psychotomimesis in an NMDA receptor antagonist model of schizophrenia",
+    "authors": [
+      "Ursule Taujanskaite",
+      "Georges Iskandar",
+      "Vaughan Bell",
+      "Sunjeev Kamboj"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "",
+    "url": "https://doi.org/10.31234/osf.io/4v6du",
+    "pdf_url": "",
+    "doi": "10.31234/osf.io/4v6du",
+    "abstract": "Hallucinations are a core symptom of psychosis. Predictive processing accounts suggest that hallucinations arise from an imbalance between sensory evidence and prior expectations. Given the role of glutamatergic dysfunction in psychosis, the NMDA receptor antagonist nitrous oxide (N2O) may provide a model for investigating hallucinatory experiences. This pre-registered study (https://osf.io/4jhsx examined the effects of N2O on subjective and behavioural indices of psychosis-like (hallucinatory) phenomena. Healthy participants were randomised to 50%-N2O (n=80) or medical-air (n=40) and completed the Psychotomimetic States Inventory (PSI) before and during gas inhalation. False alarms, hits, and exploratory signal detection indices from the white noise (speech illusions) task were compared between N2O and medical-air. Mediation of drug effects on canonical signal detection metrics – perceptual sensitivity and response bias – via change in psychotomimesis (ΔPSI) and sedation was also examined. N2O administration was associated with fewer hits but no change in false alarms, reflected in reduced perceptual sensitivity and more conservative response bias. Larger ΔPSI was associated with more false alarms in the N2O group; ΔPSI (particularly positive psychotomimesis; ΔPSI-Positive) also mediated the effect of drug condition on perceptual sensitivity, while sedation and negative psychotomimesis did not have a reliable indirect role. Susceptibility to NMDA receptor antagonist-induced anomalous perceptual experiences and deficits may rely on or be preceded by subjective psychotomimetic effects. However, the unexpected pattern of reduced perceptual sensitivity and conservative response bias under N2O challenges the notion that reduced perceptual sensitivity following NMDA-receptor antagonism would necessarily lead to hallucination-like responding.",
+    "topics": [
+      "Remote Sensing"
+    ],
+    "category": "Downstream Task",
+    "query": "\"geospatial foundation model\""
+  },
+  {
+    "id": "10.65069/ara31202751",
+    "source": "Crossref",
+    "title": "Artificial Intelligence in Urban Planning and Smart Cities: A Bibliometric Mapping and Trend Analysis of The Review-Oriented Literature",
+    "authors": [
+      "Gülay Demir"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "Applied Research Advances",
+    "url": "https://doi.org/10.65069/ara31202751",
+    "pdf_url": "",
+    "doi": "10.65069/ara31202751",
+    "abstract": "The increasing presence of artificial intelligence (AI) is evident as a fundamental infrastructure of urban planning and smart cities management. This study presents a bibliometric mapping and trend analysis of 2,439 journal articles published between 2016 and 2026 (data collected as of October 24, 2026) that combine AI-related, urban planning/smart city, and review-focused terms. Using the Bibliometrix R package, production dynamics, citation impact, sources, authors, institutions, countries, keywords, and conceptual structure were analysed. Bradford and Lotka laws were tested. Annual output increased from 11 articles in 2016 to 548 in 2026 (as of October 24), with a compound annual growth rate of 47.8%; the logistic lifecycle model (R² = 0.969) indicates that the annual output peaks around 2028.7. The output is distributed across 845 sources and deviates significantly from both Bradford's law (D = 0.117, p < 0.001) and Lotka's law (β = 2.19). China accounts for 37.0% of author-country relationships and the largest citation total (19,812) among the top 20 countries, while smaller research systems such as Egypt and France record the highest citation averages. There are international collaborations as co-authors in 37.2% of analysed articles. With the help of keywords and factors analysis, there has been identified the technological perspective of the research field that includes deep learning in remote sensing, IoT-based smart city platforms, and learning-based prediction of mobility and energy systems. A temporal shift is observed from the IoT and big data vocabulary (average year 2021-2023) to \"city planning,\" \"artificial intelligence,\" and \"learning systems\" (average 2025). Sustainability, decision-making, and governance terms remain relatively marginal. Urban digital twins are creating a research agenda focused on explainability, data management, generative artificial intelligence, and geographic diversification.",
+    "topics": [
+      "Prediction",
+      "Remote Sensing",
+      "Geospatial AI",
+      "Urban"
+    ],
+    "category": "Downstream Task",
+    "query": "\"spatial intelligence\" remote sensing"
+  },
+  {
+    "id": "10.1088/2058-6272/aec54d",
+    "source": "Crossref",
+    "title": "Application of multi-view multi-frame high-speed imaging for jet merging and plasma liner diagnostics",
+    "authors": [
+      "Yiheng Zhou",
+      "Guangyu Li",
+      "Chunjing Hao",
+      "Fengfan Liang",
+      "Yi Shen",
+      "Chen Zhang",
+      "Lu Wang",
+      "Chao Ma",
+      "Guangyi Zhu"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "Plasma Science and Technology",
+    "url": "https://doi.org/10.1088/2058-6272/aec54d",
+    "pdf_url": "",
+    "doi": "10.1088/2058-6272/aec54d",
+    "abstract": "Abstract To advance the diagnostic from single-jet imaging to comprehensive multi-jet visualization for Plasma-Jet-Driven Magneto-Inertial Fusion (PJMIF), this work develops an orthogonal-view eight-frame intensified IsCMOS imaging system on the Jet Merging Experiment (JMX) facility. Designed to record the morphological features of plasma jets moving at speeds above 70 km/s from multiple viewing angles, this system has been experimentally validated to capture the entire evolution process of multi-jet convergence and the formation of quasi-spherical plasma liners. A dual-stage calibration framework combining Zhang’s checkerboard intrinsic calibration and Perspective-n-Point (PnP) extrinsic pose estimation is implemented for multi-frame spatial registration and inter-channel intensity normalization, achieving sub-millimeter spatial resolution, nanosecond-scale exposure temporal resolution, a reprojection error below 0.2 pixels, and an overall combined uncertainty of only 0.89mm. Experiments are performed under 6-gun, 10-gun and full 32-gun synchronous discharge conditions to capture centripetal jet propagation, oblique shock collision, and dense stagnation region formation. Several typical image analysis and data extraction methods are proposed and implemented in this work:(i) 1D Gaussian fitting to derive the Mach number during the pre-merging stage (Ma≈14);(ii) 2D elliptical Gaussian fitting to obtain the minimum stagnation diameter for the convergence of 32 plasma jets (103.2mm);(iii) cross-verification with laser interferometry for structural symmetry analysis. This system achieves spatiotemporal alignment of two orthogonal ICMOS datasets and quantifies jet axial offsets as well as multi-plane stagnation plasma distributions, delivering quantitative criteria for characterizing the initial symmetry of imploding liners. The established multi-view imaging pipeline lays a solid diagnostic foundation for follow-up studies of hydrodynamic instabilities and upcoming campaigns on the upgraded facility.&#xD;",
+    "topics": [
+      "Geospatial AI",
+      "Data"
+    ],
+    "category": "Downstream Task",
+    "query": "\"cross-view matching\" satellite"
+  },
+  {
+    "id": "10.1038/s41598-026-80633-8",
+    "source": "Crossref",
+    "title": "A multilingual vision-language retrieval-augmented assistant for smallholder farmer decision support",
+    "authors": [
+      "Yahya S. Alotibi"
+    ],
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "venue": "Scientific Reports",
+    "url": "https://doi.org/10.1038/s41598-026-80633-8",
+    "pdf_url": "",
+    "doi": "10.1038/s41598-026-80633-8",
+    "abstract": "Abstract Smallholder farmers in low-and-middle-income countries lack access to timely, language-inclusive, and evidence-grounded crop advisory, a gap that existing vision-language models fail to close due to English-centric training, ungrounded generation, and absent calibration. To address this, we propose AgroVLM-RAG, a multilingual vision-language retrieval-augmented assistant, which integrates a cross-lingual aligned encoder with an evidence-gated retriever, and a faithfulness-calibrated generator. The design is based on three mechanisms: a multilingual cross-lingual alignment module that allows the mapping of imagery and queries from nine languages to a common space; a confidence router that will abstain and re-query when a learnt confidence low; and an evidence gate which only retains retrieved passages where the support score exceeds a learnt threshold. Compared to the best baseline models, AgroVLM-RAG achieves 78.9% accuracy on PlantDoc-VQA (field-captured images, the most deployment-relevant setting), 91.4% on PlantVillageVQA, and 63.1% on AgroBench, improving the strongest baseline by 5.3, 3.5, and 3.9% points respectively. The cross-lingual accuracy is at most 8.9 points away from the optimum accuracy, against 22.6 points for a strong generalist encoder, and the expected calibration of the error ranges between 0.121 and 0.031. The assistant responds in about 395 to 402 milliseconds when deployed with an embedded accelerator, allowing the deployment of advisories on the device. When confident guessing is converted to evidence-gated and calibrated abstention, these results show that it becomes auditable and language-inclusive crop decision support.",
+    "topics": [
+      "Vision-Language",
+      "Retrieval",
+      "Geospatial AI",
+      "Agriculture"
+    ],
+    "category": "Foundation Model",
+    "query": "\"vision-language\" \"remote sensing\""
   },
   {
     "id": "10.1038/s41598-026-75204-w",
@@ -416115,6 +416449,32 @@
     ],
     "category": "Downstream Task",
     "query": "\"place recognition\" satellite"
+  },
+  {
+    "id": "69e10daa001deb369defd6e5d42df47dfd2d548a",
+    "source": "Semantic Scholar",
+    "title": "Distilling a Geospatial Foundation Model into Compact Surface-Water Segmenters",
+    "authors": [
+      "Fabian Schmalstieg",
+      "Karsten Mueller",
+      "W. Samek"
+    ],
+    "published": "2026-01-01",
+    "updated": "",
+    "venue": "",
+    "url": "https://www.semanticscholar.org/paper/69e10daa001deb369defd6e5d42df47dfd2d548a",
+    "pdf_url": "",
+    "doi": "",
+    "abstract": "Geospatial foundation models segment surface water accurately, but their size limits deployment on edge hardware. Therefore, we distill a 300-million-parameter Prithvi-EO-2.0 teacher, fine-tuned on the 252 hand-labeled Sen1Floods11 training images, into compact student models. The teacher labels 2,500 Sentinel-2 images around flood alerts and supervises the students via its labels and probability maps, without manual annotation. A 0.7-million-parameter EfficientViT-B0 student achieves the teacher's accuracy in water intersection over union (IoU) on WorldFloods-v2, STURM-Flood and 97 held-back WorldFloods events. Unlike prior work, we evaluate every model on four test sets from three public datasets and on two new dry-scene sets. Controlled comparisons show that teacher labels achieve human-level annotation quality for student training on the same images. The teacher's probability maps account for much of its value, and the full pipeline adds 5.7 IoU points on the held-back events over training on hand labels alone. All students, with parameter counts ranging from about 1,000 to 32.5 million, perform within 2 IoU points of the teacher on WorldFloods-v2 and STURM-Flood. On a Jetson Xavier NX, the main student runs as a 1.6-megabyte mixed 8-bit integer and 16-bit floating-point engine at 4.9 milliseconds per 512-by-512 image, and a 12,230-parameter student runs in full 8-bit integer format within 0.5 IoU points of its 32-bit version. The main student outperforms a fixed water index by 11.5 IoU points on the held-back events and raises false alarms on under 10\\% rather than 57.0\\% of water-free windows, as unattended use requires.",
+    "topics": [
+      "Foundation Models",
+      "Segmentation",
+      "Geospatial AI",
+      "Flood",
+      "Data"
+    ],
+    "category": "Foundation Model",
+    "query": "\"geospatial foundation model\""
   },
   {
     "id": "9d16970daa0c0373a04de7e5ab232a75a19b419e",
