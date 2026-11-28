@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T04:03:43+00:00",
-    "paper_count_total": 18035,
+    "generated_at": "2026-11-28T03:50:00+00:00",
+    "paper_count_total": 18133,
     "paper_count_graph": 180,
     "paper_count": 180,
-    "node_count": 1077,
-    "link_count": 4009,
-    "cluster_count": 4,
+    "node_count": 1079,
+    "link_count": 4015,
+    "cluster_count": 5,
     "max_papers": 180,
     "max_related_per_paper": 3,
     "similarity_threshold": 0.34
@@ -144,10 +144,11 @@
       "neighbors": [
         "0",
         "10",
-        "1001",
-        "1016",
-        "1037",
-        "1052",
+        "1000",
+        "1008",
+        "1023",
+        "1044",
+        "1059",
         "107",
         "119",
         "123",
@@ -244,15 +245,14 @@
         "909",
         "914",
         "917",
-        "919",
-        "937",
+        "926",
         "944",
-        "955",
-        "960",
-        "965",
+        "951",
+        "962",
+        "967",
         "97",
-        "970",
-        "993"
+        "972",
+        "977"
       ],
       "degree": 111
     },
@@ -406,13 +406,12 @@
       "cluster_label": "Downstream Task",
       "neighbors": [
         "10",
-        "1006",
-        "1010",
+        "1013",
+        "1017",
         "102",
-        "1041",
         "1048",
-        "1052",
-        "1065",
+        "1055",
+        "1059",
         "1072",
         "113",
         "132",
@@ -481,10 +480,11 @@
         "880",
         "90",
         "904",
-        "926",
+        "919",
         "93",
-        "974",
-        "989"
+        "933",
+        "981",
+        "996"
       ],
       "degree": 80
     },
@@ -801,7 +801,7 @@
         "7",
         "70",
         "742",
-        "944"
+        "951"
       ],
       "degree": 18
     },
@@ -836,11 +836,11 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1032",
-        "1037",
-        "1041",
-        "1065",
+        "1000",
+        "1029",
+        "1039",
+        "1044",
+        "1048",
         "1072",
         "183",
         "194",
@@ -868,13 +868,12 @@
         "856",
         "865",
         "90",
-        "944",
-        "960",
+        "951",
+        "967",
         "97",
-        "989",
-        "993"
+        "996"
       ],
-      "degree": 37
+      "degree": 36
     },
     {
       "id": "36",
@@ -883,10 +882,10 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
-        "1022",
-        "1048",
-        "1052",
+        "1017",
+        "1029",
+        "1055",
+        "1059",
         "119",
         "143",
         "152",
@@ -1329,7 +1328,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
+        "1017",
         "152",
         "16",
         "20",
@@ -1616,7 +1615,7 @@
         "74",
         "75",
         "76",
-        "944"
+        "951"
       ],
       "degree": 14
     },
@@ -1827,10 +1826,11 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
+        "1000",
+        "1008",
         "102",
-        "1032",
-        "1048",
+        "1039",
+        "1055",
         "132",
         "259",
         "333",
@@ -1847,9 +1847,8 @@
         "820",
         "860",
         "870",
-        "919",
         "926",
-        "993"
+        "933"
       ],
       "degree": 23
     },
@@ -2120,7 +2119,7 @@
         "607",
         "7",
         "89",
-        "960",
+        "967",
         "98",
         "99"
       ],
@@ -2296,7 +2295,7 @@
         "343",
         "7",
         "823",
-        "937"
+        "944"
       ],
       "degree": 9
     },
@@ -2370,7 +2369,7 @@
         "788",
         "823",
         "826",
-        "937"
+        "944"
       ],
       "degree": 14
     },
@@ -2590,7 +2589,7 @@
         "487",
         "7",
         "842",
-        "955"
+        "962"
       ],
       "degree": 11
     },
@@ -3021,8 +3020,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1072",
+        "1048",
         "143",
         "190",
         "208",
@@ -3039,7 +3037,7 @@
         "880",
         "900"
       ],
-      "degree": 17
+      "degree": 16
     },
     {
       "id": "147",
@@ -3754,7 +3752,7 @@
         "664",
         "7",
         "89",
-        "960",
+        "967",
         "97"
       ],
       "degree": 14
@@ -3878,14 +3876,14 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1072",
+        "1048",
         "146",
         "16",
         "191",
         "192",
         "193",
         "390",
+        "395",
         "89",
         "9"
       ],
@@ -4160,7 +4158,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
+        "1072",
         "16",
         "206",
         "207",
@@ -5208,7 +5206,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
+        "1008",
         "260",
         "261",
         "262",
@@ -5704,8 +5702,8 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1037",
+        "1029",
+        "1044",
         "16",
         "288",
         "289",
@@ -6835,7 +6833,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1037",
+        "1044",
         "287",
         "909"
       ],
@@ -7339,7 +7337,7 @@
         "7",
         "771",
         "788",
-        "937"
+        "944"
       ],
       "degree": 21
     },
@@ -7985,7 +7983,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
+        "1008",
         "259",
         "367",
         "374",
@@ -8399,8 +8397,8 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1032",
+        "1029",
+        "1039",
         "373",
         "470"
       ],
@@ -8523,6 +8521,7 @@
       "neighbors": [
         "146",
         "16",
+        "190",
         "353",
         "367",
         "368",
@@ -8540,7 +8539,7 @@
         "464",
         "880"
       ],
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "396",
@@ -8743,7 +8742,7 @@
         "601",
         "7",
         "842",
-        "965"
+        "972"
       ],
       "degree": 10
     },
@@ -9031,7 +9030,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
+        "1017",
         "16",
         "36",
         "367",
@@ -9785,7 +9784,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1032",
+        "1039",
         "16",
         "318",
         "35",
@@ -10576,7 +10575,7 @@
         "695",
         "7",
         "823",
-        "937"
+        "944"
       ],
       "degree": 11
     },
@@ -11008,7 +11007,7 @@
         "611",
         "629",
         "7",
-        "970"
+        "977"
       ],
       "degree": 14
     },
@@ -11078,7 +11077,7 @@
         "522",
         "577",
         "611",
-        "970"
+        "977"
       ],
       "degree": 4
     },
@@ -11330,8 +11329,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1072",
+        "1048",
         "16",
         "228",
         "35",
@@ -11341,7 +11339,7 @@
         "543",
         "544"
       ],
-      "degree": 10
+      "degree": 9
     },
     {
       "id": "542",
@@ -11670,7 +11668,8 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
+        "1000",
+        "1055",
         "16",
         "316",
         "561",
@@ -11684,8 +11683,7 @@
         "569",
         "570",
         "83",
-        "870",
-        "993"
+        "870"
       ],
       "degree": 16
     },
@@ -12021,7 +12019,7 @@
         "581",
         "611",
         "7",
-        "970"
+        "977"
       ],
       "degree": 9
     },
@@ -12097,7 +12095,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
+        "1017",
         "152",
         "16",
         "36",
@@ -12560,7 +12558,7 @@
         "610",
         "7",
         "790",
-        "944",
+        "951",
         "97"
       ],
       "degree": 10
@@ -12631,7 +12629,7 @@
         "615",
         "616",
         "7",
-        "970"
+        "977"
       ],
       "degree": 10
     },
@@ -13255,7 +13253,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
+        "1059",
         "16",
         "644",
         "646",
@@ -13301,18 +13299,18 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
         "1059",
         "1060",
         "1061",
         "1062",
         "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
         "645",
         "646",
         "647"
@@ -13942,7 +13940,7 @@
         "710",
         "794",
         "823",
-        "955"
+        "962"
       ],
       "degree": 8
     },
@@ -15185,7 +15183,7 @@
         "752",
         "775",
         "856",
-        "989"
+        "996"
       ],
       "degree": 19
     },
@@ -15878,7 +15876,7 @@
         "780",
         "781",
         "83",
-        "926"
+        "933"
       ],
       "degree": 11
     },
@@ -16437,7 +16435,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
+        "1008",
         "259",
         "373",
         "7",
@@ -17292,7 +17290,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
+        "1055",
         "152",
         "16",
         "36",
@@ -17447,8 +17445,9 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
-        "1052",
+        "1000",
+        "1055",
+        "1059",
         "36",
         "7",
         "83",
@@ -17456,8 +17455,7 @@
         "862",
         "863",
         "864",
-        "919",
-        "993"
+        "926"
       ],
       "degree": 11
     },
@@ -17533,7 +17531,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
+        "1072",
         "16",
         "205",
         "35",
@@ -17541,7 +17539,7 @@
         "867",
         "868",
         "869",
-        "989"
+        "996"
       ],
       "degree": 9
     },
@@ -17618,15 +17616,15 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
+        "1000",
+        "1055",
         "16",
         "560",
         "83",
         "871",
         "872",
         "873",
-        "874",
-        "993"
+        "874"
       ],
       "degree": 9
     },
@@ -17703,8 +17701,8 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
-        "1052",
+        "1055",
+        "1059",
         "16",
         "36",
         "851",
@@ -17796,6 +17794,7 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
+        "1048",
         "146",
         "16",
         "368",
@@ -17807,7 +17806,7 @@
         "884",
         "900"
       ],
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "881",
@@ -18524,6 +18523,123 @@
     },
     {
       "id": "919",
+      "name": "SLAM‐Based Real‐Time Endoscope Localization Via SfM‐MVS Reconstruction and Cross‐Source Point Cloud Registration for Robotic Spinal Surgery",
+      "type": "paper",
+      "paper_id": "10.1002/rcs.70254",
+      "source_name": "Crossref",
+      "year": "2026",
+      "published": "2026-12-01",
+      "updated": "2026-11-27",
+      "venue": "The International Journal of Medical Robotics and Computer Assisted Surgery",
+      "url": "https://doi.org/10.1002/rcs.70254",
+      "pdf_url": "",
+      "doi": "10.1002/rcs.70254",
+      "abstract": "ABSTRACT Background Spinal endoscopic surgery faces clinical challenges including missing depth information and difficulty localising flexible instrument tips. This study aims to develop a real‐time endoscope localization method that operates independently of external optical tracking devices. Methods A real‐time localization method based on a simultaneous localization and mapping (SLAM) framework is proposed. SfM‐MVS technique restores depth from narrow‐field, sparse‐texture endoscopic views. A cross‐source registration strategy combining anatomical landmarks with ICP aligns local reconstructions with pre‐operative CT models. Results The method increased point cloud density 3.2‐fold. Registration maintained RMSE < 1.83 mm even with < 50% overlap. Real‐time localization achieved a mean position error of 1.88 mm. Conclusions The proposed method achieves accurate endoscope localization and depth restoration without relying on external optical tracking, overcoming technical limitations such as line‐of‐sight occlusion and the inability to track non‐rigid targets. It provides a pathway for flexible instruments and autonomous localization in minimally invasive robotic spinal surgery.",
+      "topics": [
+        "Geospatial AI"
+      ],
+      "category": "Downstream Task",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "16",
+        "920",
+        "921",
+        "922",
+        "923",
+        "924",
+        "925"
+      ],
+      "degree": 7
+    },
+    {
+      "id": "920",
+      "name": "Li Qianqian",
+      "type": "author",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919",
+        "921",
+        "922",
+        "923",
+        "924"
+      ],
+      "degree": 5
+    },
+    {
+      "id": "921",
+      "name": "Li Guoliang",
+      "type": "author",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919",
+        "920",
+        "922",
+        "923",
+        "924"
+      ],
+      "degree": 5
+    },
+    {
+      "id": "922",
+      "name": "Yang Yang",
+      "type": "author",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919",
+        "920",
+        "921",
+        "923",
+        "924"
+      ],
+      "degree": 5
+    },
+    {
+      "id": "923",
+      "name": "Song Rui",
+      "type": "author",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919",
+        "920",
+        "921",
+        "922",
+        "924"
+      ],
+      "degree": 5
+    },
+    {
+      "id": "924",
+      "name": "Qi Lei",
+      "type": "author",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919",
+        "920",
+        "921",
+        "922",
+        "923"
+      ],
+      "degree": 5
+    },
+    {
+      "id": "925",
+      "name": "The International Journal of Medical Robotics and Computer Assisted Surgery",
+      "type": "venue",
+      "cluster": 1,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "919"
+      ],
+      "degree": 1
+    },
+    {
+      "id": "926",
       "name": "Uncertainty Estimation for LEO Satellite‐Derived Thermospheric Neutral Density Using Data Assimilation Diagnostics",
       "type": "paper",
       "paper_id": "10.1029/2026sw005163",
@@ -18544,108 +18660,108 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
+        "1000",
+        "1008",
         "7",
         "83",
         "860",
-        "920",
-        "921",
-        "922",
-        "923",
-        "924",
-        "925",
-        "993"
+        "927",
+        "928",
+        "929",
+        "930",
+        "931",
+        "932"
       ],
       "degree": 11
     },
     {
-      "id": "920",
+      "id": "927",
       "name": "I. Fernandez‐Gomez",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919",
-        "921",
-        "922",
-        "923",
-        "924"
+        "926",
+        "928",
+        "929",
+        "930",
+        "931"
       ],
       "degree": 5
     },
     {
-      "id": "921",
+      "id": "928",
       "name": "S. Codrescu",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919",
-        "920",
-        "922",
-        "923",
-        "924"
+        "926",
+        "927",
+        "929",
+        "930",
+        "931"
       ],
       "degree": 5
     },
     {
-      "id": "922",
+      "id": "929",
       "name": "F. Heymann",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919",
-        "920",
-        "921",
-        "923",
-        "924"
+        "926",
+        "927",
+        "928",
+        "930",
+        "931"
       ],
       "degree": 5
     },
     {
-      "id": "923",
+      "id": "930",
       "name": "M. V. Codrescu",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919",
-        "920",
-        "921",
-        "922",
-        "924"
+        "926",
+        "927",
+        "928",
+        "929",
+        "931"
       ],
       "degree": 5
     },
     {
-      "id": "924",
+      "id": "931",
       "name": "C. Borries",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919",
-        "920",
-        "921",
-        "922",
-        "923"
+        "926",
+        "927",
+        "928",
+        "929",
+        "930"
       ],
       "degree": 5
     },
     {
-      "id": "925",
+      "id": "932",
       "name": "Space Weather",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "919"
+        "926"
       ],
       "degree": 1
     },
     {
-      "id": "926",
+      "id": "933",
       "name": "What Drives Minimum Dietary Diversity Among Children Aged 6–23 Months in Bangladesh? Socioeconomic Inequality, Spatial Variation, and Policy Insights From a Multilevel and Decomposition Analysis of the 2022 BDHS",
       "type": "paper",
       "paper_id": "10.1002/puh2.70470",
@@ -18666,208 +18782,208 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
+        "1000",
+        "1055",
         "16",
         "776",
         "83",
-        "927",
-        "928",
-        "929",
-        "930",
-        "931",
-        "932",
-        "933",
         "934",
         "935",
         "936",
-        "993"
+        "937",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942",
+        "943"
       ],
       "degree": 15
     },
     {
-      "id": "927",
+      "id": "934",
       "name": "Md. Monir Hossain",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "926",
-        "928",
-        "929",
-        "930",
-        "931",
-        "932",
         "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "928",
-      "name": "Rubaiyat Alam",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "929",
-        "930",
-        "931",
-        "932",
-        "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "929",
-      "name": "Ishrat Jahan",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "930",
-        "931",
-        "932",
-        "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "930",
-      "name": "Afrada Farzin Rabab",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "931",
-        "932",
-        "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "931",
-      "name": "M. D. Sameer Hasan",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "930",
-        "932",
-        "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "932",
-      "name": "Tanjela Bushra",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "930",
-        "931",
-        "933",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "933",
-      "name": "Shahana Sultana",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "930",
-        "931",
-        "932",
-        "934",
-        "935"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "934",
-      "name": "Md. Atiqul Haque",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "930",
-        "931",
-        "932",
-        "933",
-        "935"
+        "935",
+        "936",
+        "937",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942"
       ],
       "degree": 9
     },
     {
       "id": "935",
-      "name": "Rumana Rois",
+      "name": "Rubaiyat Alam",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "926",
-        "927",
-        "928",
-        "929",
-        "930",
-        "931",
-        "932",
         "933",
-        "934"
+        "934",
+        "936",
+        "937",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942"
       ],
       "degree": 9
     },
     {
       "id": "936",
+      "name": "Ishrat Jahan",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "937",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "937",
+      "name": "Afrada Farzin Rabab",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "938",
+      "name": "M. D. Sameer Hasan",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "937",
+        "939",
+        "940",
+        "941",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "939",
+      "name": "Tanjela Bushra",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "937",
+        "938",
+        "940",
+        "941",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "940",
+      "name": "Shahana Sultana",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "937",
+        "938",
+        "939",
+        "941",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "941",
+      "name": "Md. Atiqul Haque",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "937",
+        "938",
+        "939",
+        "940",
+        "942"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "942",
+      "name": "Rumana Rois",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "933",
+        "934",
+        "935",
+        "936",
+        "937",
+        "938",
+        "939",
+        "940",
+        "941"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "943",
       "name": "Public Health Challenges",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "926"
+        "933"
       ],
       "degree": 1
     },
     {
-      "id": "937",
+      "id": "944",
       "name": "EHECC-YOLO: explicit high-frequency enhancement and cross-scale collaboration for lightweight small object detection in aerial images",
       "type": "paper",
       "paper_id": "10.1007/s00530-026-02809-6",
@@ -18893,103 +19009,103 @@
         "343",
         "499",
         "7",
-        "938",
-        "939",
-        "940",
-        "941",
-        "942",
-        "943"
+        "945",
+        "946",
+        "947",
+        "948",
+        "949",
+        "950"
       ],
       "degree": 11
     },
     {
-      "id": "938",
+      "id": "945",
       "name": "Shuaikai Li",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937",
-        "939",
-        "940",
-        "941",
-        "942"
+        "944",
+        "946",
+        "947",
+        "948",
+        "949"
       ],
       "degree": 5
     },
     {
-      "id": "939",
+      "id": "946",
       "name": "Sulan Zhang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937",
-        "938",
-        "940",
-        "941",
-        "942"
+        "944",
+        "945",
+        "947",
+        "948",
+        "949"
       ],
       "degree": 5
     },
     {
-      "id": "940",
+      "id": "947",
       "name": "Yanfeng Li",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937",
-        "938",
-        "939",
-        "941",
-        "942"
+        "944",
+        "945",
+        "946",
+        "948",
+        "949"
       ],
       "degree": 5
     },
     {
-      "id": "941",
+      "id": "948",
       "name": "Fei Wang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937",
-        "938",
-        "939",
-        "940",
-        "942"
+        "944",
+        "945",
+        "946",
+        "947",
+        "949"
       ],
       "degree": 5
     },
     {
-      "id": "942",
+      "id": "949",
       "name": "Xin Wen",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937",
-        "938",
-        "939",
-        "940",
-        "941"
+        "944",
+        "945",
+        "946",
+        "947",
+        "948"
       ],
       "degree": 5
     },
     {
-      "id": "943",
+      "id": "950",
       "name": "Multimedia Systems",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "937"
+        "944"
       ],
       "degree": 1
     },
     {
-      "id": "944",
+      "id": "951",
       "name": "Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer",
       "type": "paper",
       "paper_id": "10.1007/s00520-026-11504-1",
@@ -19015,203 +19131,203 @@
         "607",
         "7",
         "70",
-        "945",
-        "946",
-        "947",
-        "948",
-        "949",
-        "950",
-        "951",
         "952",
         "953",
-        "954"
+        "954",
+        "955",
+        "956",
+        "957",
+        "958",
+        "959",
+        "960",
+        "961"
       ],
       "degree": 15
     },
     {
-      "id": "945",
+      "id": "952",
       "name": "Fiorella Ambrosio",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "944",
-        "946",
-        "947",
-        "948",
-        "949",
-        "950",
         "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "946",
-      "name": "Martina Persia",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "947",
-        "948",
-        "949",
-        "950",
-        "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "947",
-      "name": "Andrea Bellieni",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "948",
-        "949",
-        "950",
-        "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "948",
-      "name": "Luca Tagliaferri",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "949",
-        "950",
-        "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "949",
-      "name": "Maria Antonietta Gambacorta",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "948",
-        "950",
-        "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "950",
-      "name": "Vincenzo Frascino",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "948",
-        "949",
-        "951",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "951",
-      "name": "Gabriele Abbatecola",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "948",
-        "949",
-        "950",
-        "952",
-        "953"
-      ],
-      "degree": 9
-    },
-    {
-      "id": "952",
-      "name": "Francesco Landi",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "948",
-        "949",
-        "950",
-        "951",
-        "953"
+        "953",
+        "954",
+        "955",
+        "956",
+        "957",
+        "958",
+        "959",
+        "960"
       ],
       "degree": 9
     },
     {
       "id": "953",
-      "name": "Giuseppe Ferdinando Colloca",
+      "name": "Martina Persia",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "944",
-        "945",
-        "946",
-        "947",
-        "948",
-        "949",
-        "950",
         "951",
-        "952"
+        "952",
+        "954",
+        "955",
+        "956",
+        "957",
+        "958",
+        "959",
+        "960"
       ],
       "degree": 9
     },
     {
       "id": "954",
+      "name": "Andrea Bellieni",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "955",
+        "956",
+        "957",
+        "958",
+        "959",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "955",
+      "name": "Luca Tagliaferri",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "956",
+        "957",
+        "958",
+        "959",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "956",
+      "name": "Maria Antonietta Gambacorta",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "955",
+        "957",
+        "958",
+        "959",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "957",
+      "name": "Vincenzo Frascino",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "955",
+        "956",
+        "958",
+        "959",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "958",
+      "name": "Gabriele Abbatecola",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "955",
+        "956",
+        "957",
+        "959",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "959",
+      "name": "Francesco Landi",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "955",
+        "956",
+        "957",
+        "958",
+        "960"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "960",
+      "name": "Giuseppe Ferdinando Colloca",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "955",
+        "956",
+        "957",
+        "958",
+        "959"
+      ],
+      "degree": 9
+    },
+    {
+      "id": "961",
       "name": "Supportive Care in Cancer",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "944"
+        "951"
       ],
       "degree": 1
     },
     {
-      "id": "955",
+      "id": "962",
       "name": "Prototype-Anchored prompting for few-shot remote sensing image classification",
       "type": "paper",
       "paper_id": "10.1007/s11760-026-05877-3",
@@ -19234,66 +19350,66 @@
         "123",
         "679",
         "7",
-        "956",
-        "957",
-        "958",
-        "959",
-        "965"
+        "963",
+        "964",
+        "965",
+        "966",
+        "972"
       ],
       "degree": 8
     },
     {
-      "id": "956",
+      "id": "963",
       "name": "Siwen Wang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "955",
-        "957",
-        "958"
+        "962",
+        "964",
+        "965"
       ],
       "degree": 3
     },
     {
-      "id": "957",
+      "id": "964",
       "name": "Fangming Gu",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "955",
-        "956",
-        "958"
+        "962",
+        "963",
+        "965"
       ],
       "degree": 3
     },
     {
-      "id": "958",
+      "id": "965",
       "name": "Congming Li",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "955",
-        "956",
-        "957"
+        "962",
+        "963",
+        "964"
       ],
       "degree": 3
     },
     {
-      "id": "959",
+      "id": "966",
       "name": "Signal, Image and Video Processing",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "955"
+        "962"
       ],
       "degree": 1
     },
     {
-      "id": "960",
+      "id": "967",
       "name": "Deep multimodal K-fold Model for emotion and sentiment analysis in figurative language",
       "type": "paper",
       "paper_id": "10.1007/s10772-026-10308-2",
@@ -19314,70 +19430,70 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
+        "1000",
         "183",
         "35",
         "7",
-        "961",
-        "962",
-        "963",
-        "964",
+        "968",
+        "969",
         "97",
-        "993"
+        "970",
+        "971"
       ],
       "degree": 9
     },
     {
-      "id": "961",
+      "id": "968",
       "name": "Sudipta Bhattacharya",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "960",
-        "962",
-        "963"
+        "967",
+        "969",
+        "970"
       ],
       "degree": 3
     },
     {
-      "id": "962",
+      "id": "969",
       "name": "Samarjeet Borah",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "960",
-        "961",
-        "963"
+        "967",
+        "968",
+        "970"
       ],
       "degree": 3
     },
     {
-      "id": "963",
+      "id": "970",
       "name": "Brojo Kishore Mishra",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "960",
-        "961",
-        "962"
+        "967",
+        "968",
+        "969"
       ],
       "degree": 3
     },
     {
-      "id": "964",
+      "id": "971",
       "name": "International Journal of Speech Technology",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "960"
+        "967"
       ],
       "degree": 1
     },
     {
-      "id": "965",
+      "id": "972",
       "name": "Optimizing remote sensing image classification: a grey relational analysis and three-way decision approach",
       "type": "paper",
       "paper_id": "10.1007/s13042-026-03370-4",
@@ -19399,66 +19515,66 @@
       "neighbors": [
         "405",
         "7",
-        "955",
-        "966",
-        "967",
-        "968",
-        "969"
+        "962",
+        "973",
+        "974",
+        "975",
+        "976"
       ],
       "degree": 7
     },
     {
-      "id": "966",
+      "id": "973",
       "name": "Jingjing Qian",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "965",
-        "967",
-        "968"
+        "972",
+        "974",
+        "975"
       ],
       "degree": 3
     },
     {
-      "id": "967",
+      "id": "974",
       "name": "Shuhua Su",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "965",
-        "966",
-        "968"
+        "972",
+        "973",
+        "975"
       ],
       "degree": 3
     },
     {
-      "id": "968",
+      "id": "975",
       "name": "Chujun Zhang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "965",
-        "966",
-        "967"
+        "972",
+        "973",
+        "974"
       ],
       "degree": 3
     },
     {
-      "id": "969",
+      "id": "976",
       "name": "International Journal of Machine Learning and Cybernetics",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "965"
+        "972"
       ],
       "degree": 1
     },
     {
-      "id": "970",
+      "id": "977",
       "name": "Applying explainable artificial intelligence for crop classification using remote sensing data",
       "type": "paper",
       "paper_id": "10.1007/s12518-026-00829-5",
@@ -19484,49 +19600,49 @@
         "577",
         "611",
         "7",
-        "971",
-        "972",
-        "973"
+        "978",
+        "979",
+        "980"
       ],
       "degree": 8
     },
     {
-      "id": "971",
+      "id": "978",
       "name": "Elias Dritsas",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "970",
-        "972"
+        "977",
+        "979"
       ],
       "degree": 2
     },
     {
-      "id": "972",
+      "id": "979",
       "name": "Maria Trigka",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "970",
-        "971"
+        "977",
+        "978"
       ],
       "degree": 2
     },
     {
-      "id": "973",
+      "id": "980",
       "name": "Applied Geomatics",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "970"
+        "977"
       ],
       "degree": 1
     },
     {
-      "id": "974",
+      "id": "981",
       "name": "Physiology‐Informed Layered Sensing for Intelligent Human–Exoskeleton Interaction",
       "type": "paper",
       "paper_id": "10.1002/sys3.70049",
@@ -19543,16 +19659,172 @@
         "Geospatial AI"
       ],
       "category": "Downstream Task",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
         "16",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
+        "982",
+        "983",
+        "984",
+        "985",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994",
+        "995"
+      ],
+      "degree": 15
+    },
+    {
+      "id": "982",
+      "name": "Chenyu Tang",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "983",
+        "984",
+        "985",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "983",
+      "name": "Yu Zhu",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "982",
+        "984",
+        "985",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "984",
+      "name": "Josée Mallah",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "982",
+        "983",
+        "985",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "985",
+      "name": "Wentian Yi",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "982",
+        "983",
+        "984",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "986",
+      "name": "Luyao Jin",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "982",
+        "983",
+        "984",
+        "985",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "987",
+      "name": "Zibo Zhang",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "981",
+        "982",
+        "983",
+        "984",
+        "985",
+        "986",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
+      ],
+      "degree": 13
+    },
+    {
+      "id": "988",
+      "name": "Shengbo Wang",
+      "type": "author",
+      "cluster": 2,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
         "981",
         "982",
         "983",
@@ -19560,322 +19832,166 @@
         "985",
         "986",
         "987",
-        "988"
-      ],
-      "degree": 15
-    },
-    {
-      "id": "975",
-      "name": "Chenyu Tang",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "976",
-      "name": "Yu Zhu",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "977",
-        "978",
-        "979",
-        "980",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "977",
-      "name": "Josée Mallah",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "976",
-        "978",
-        "979",
-        "980",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "978",
-      "name": "Wentian Yi",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "979",
-        "980",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "979",
-      "name": "Luyao Jin",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "980",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "980",
-      "name": "Zibo Zhang",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "981",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "981",
-      "name": "Shengbo Wang",
-      "type": "author",
-      "cluster": 1,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
-        "982",
-        "983",
-        "984",
-        "985",
-        "986",
-        "987"
-      ],
-      "degree": 13
-    },
-    {
-      "id": "982",
+      "id": "989",
       "name": "Muzi Xu",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
+        "982",
         "983",
         "984",
         "985",
         "986",
-        "987"
+        "987",
+        "988",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "983",
+      "id": "990",
       "name": "Ming Shen",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
         "982",
+        "983",
         "984",
         "985",
         "986",
-        "987"
+        "987",
+        "988",
+        "989",
+        "991",
+        "992",
+        "993",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "984",
+      "id": "991",
       "name": "Calvin Kalun Or",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
         "982",
         "983",
+        "984",
         "985",
         "986",
-        "987"
+        "987",
+        "988",
+        "989",
+        "990",
+        "992",
+        "993",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "985",
+      "id": "992",
       "name": "Shuo Gao",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
         "982",
         "983",
         "984",
+        "985",
         "986",
-        "987"
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "993",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "986",
+      "id": "993",
       "name": "Shaoping Bai",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
         "982",
         "983",
         "984",
         "985",
-        "987"
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "994"
       ],
       "degree": 13
     },
     {
-      "id": "987",
+      "id": "994",
       "name": "Luigi G. Occhipinti",
       "type": "author",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974",
-        "975",
-        "976",
-        "977",
-        "978",
-        "979",
-        "980",
         "981",
         "982",
         "983",
         "984",
         "985",
-        "986"
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993"
       ],
       "degree": 13
     },
     {
-      "id": "988",
+      "id": "995",
       "name": "SmartSys",
       "type": "venue",
-      "cluster": 1,
+      "cluster": 2,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "974"
+        "981"
       ],
       "degree": 1
     },
     {
-      "id": "989",
+      "id": "996",
       "name": "Memristor‐Based Neuromorphic Computing for Intelligent Sensing and Edge Applications",
       "type": "paper",
       "paper_id": "10.1002/adco.70014",
@@ -19896,55 +20012,55 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
+        "1000",
+        "1072",
         "16",
         "35",
         "742",
         "865",
-        "990",
-        "991",
-        "992",
-        "993"
+        "997",
+        "998",
+        "999"
       ],
       "degree": 9
     },
     {
-      "id": "990",
+      "id": "997",
       "name": "Hanrui Li",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "989",
-        "991"
+        "996",
+        "998"
       ],
       "degree": 2
     },
     {
-      "id": "991",
+      "id": "998",
       "name": "Nazek El‐Atab",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "989",
-        "990"
+        "996",
+        "997"
       ],
       "degree": 2
     },
     {
-      "id": "992",
+      "id": "999",
       "name": "Advanced Computing",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "989"
+        "996"
       ],
       "degree": 1
     },
     {
-      "id": "993",
+      "id": "1000",
       "name": "Complaint Driven Clinical Guidance and ICD Chapter Suggestion: An AI‐Based Text Classification Tool",
       "type": "paper",
       "paper_id": "10.1111/jep.70711",
@@ -19968,137 +20084,137 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1000",
-        "1048",
-        "1065",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1006",
+        "1007",
+        "1055",
+        "1072",
         "35",
         "560",
         "7",
         "83",
         "860",
         "870",
-        "919",
         "926",
-        "960",
-        "989",
-        "994",
-        "995",
-        "996",
-        "997",
-        "998",
-        "999"
+        "933",
+        "967",
+        "996"
       ],
       "degree": 19
     },
     {
-      "id": "994",
+      "id": "1001",
       "name": "Anday Duru",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "995",
-        "996",
-        "997",
-        "998",
-        "999"
+        "1000",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1006"
       ],
       "degree": 6
     },
     {
-      "id": "995",
+      "id": "1002",
       "name": "Eftal Sehirli",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "994",
-        "996",
-        "997",
-        "998",
-        "999"
+        "1000",
+        "1001",
+        "1003",
+        "1004",
+        "1005",
+        "1006"
       ],
       "degree": 6
     },
     {
-      "id": "996",
+      "id": "1003",
       "name": "Muhammed Kamil Turan",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "994",
-        "995",
-        "997",
-        "998",
-        "999"
+        "1000",
+        "1001",
+        "1002",
+        "1004",
+        "1005",
+        "1006"
       ],
       "degree": 6
     },
     {
-      "id": "997",
+      "id": "1004",
       "name": "Emrullah Demiral",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "994",
-        "995",
-        "996",
-        "998",
-        "999"
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1005",
+        "1006"
       ],
       "degree": 6
     },
     {
-      "id": "998",
+      "id": "1005",
       "name": "Mehmet Tankul",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "994",
-        "995",
-        "996",
-        "997",
-        "999"
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1006"
       ],
       "degree": 6
     },
     {
-      "id": "999",
+      "id": "1006",
       "name": "Mehmet Coskun",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993",
-        "994",
-        "995",
-        "996",
-        "997",
-        "998"
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005"
       ],
       "degree": 6
     },
     {
-      "id": "1000",
+      "id": "1007",
       "name": "Journal of Evaluation in Clinical Practice",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "993"
+        "1000"
       ],
       "degree": 1
     },
     {
-      "id": "1001",
+      "id": "1008",
       "name": "Spatiotemporal analysis and prediction of land use land cover changes in the Upper Mahanadi basin, India using CA-Markov and remote sensing techniques",
       "type": "paper",
       "paper_id": "10.1007/s41062-026-03096-w",
@@ -20119,71 +20235,71 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1002",
-        "1003",
-        "1004",
-        "1005",
+        "1009",
+        "1010",
+        "1011",
+        "1012",
         "259",
         "373",
         "7",
         "806",
         "83",
-        "919"
+        "926"
       ],
       "degree": 10
     },
     {
-      "id": "1002",
+      "id": "1009",
       "name": "Md Masood Zafar Ansari",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
-        "1003",
-        "1004"
+        "1008",
+        "1010",
+        "1011"
       ],
       "degree": 3
     },
     {
-      "id": "1003",
+      "id": "1010",
       "name": "Zulfequar Ahmad",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
-        "1002",
-        "1004"
+        "1008",
+        "1009",
+        "1011"
       ],
       "degree": 3
     },
     {
-      "id": "1004",
+      "id": "1011",
       "name": "Pradeep Kumar Garg",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001",
-        "1002",
-        "1003"
+        "1008",
+        "1009",
+        "1010"
       ],
       "degree": 3
     },
     {
-      "id": "1005",
+      "id": "1012",
       "name": "Innovative Infrastructure Solutions",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1001"
+        "1008"
       ],
       "degree": 1
     },
     {
-      "id": "1006",
+      "id": "1013",
       "name": "Research Progress and Clinical Translational Application of Ultrasound Localization Microscopy in Microcirculation Imaging",
       "type": "paper",
       "paper_id": "10.26599/audt.2026.260040",
@@ -20200,53 +20316,53 @@
         "Geospatial AI"
       ],
       "category": "Downstream Task",
-      "cluster": 2,
+      "cluster": 3,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1007",
-        "1008",
-        "1009",
+        "1014",
+        "1015",
+        "1016",
         "16"
       ],
       "degree": 4
     },
     {
-      "id": "1007",
+      "id": "1014",
       "name": "Xuedi Han",
       "type": "author",
-      "cluster": 2,
+      "cluster": 3,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1006",
-        "1008"
+        "1013",
+        "1015"
       ],
       "degree": 2
     },
     {
-      "id": "1008",
+      "id": "1015",
       "name": "Ligang Cui",
       "type": "author",
-      "cluster": 2,
+      "cluster": 3,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1006",
-        "1007"
+        "1013",
+        "1014"
       ],
       "degree": 2
     },
     {
-      "id": "1009",
+      "id": "1016",
       "name": "Advanced Ultrasound in Diagnosis and Therapy",
       "type": "venue",
-      "cluster": 2,
+      "cluster": 3,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1006"
+        "1013"
       ],
       "degree": 1
     },
     {
-      "id": "1010",
+      "id": "1017",
       "name": "PF-Mamba-UNet: An Anatomical-Prior-Guided Medical Image Segmentation Network Based on Mamba and Spatial-Channel Collaborative Attention Fusion",
       "type": "paper",
       "paper_id": "10.1007/s12559-026-10667-7",
@@ -20267,11 +20383,11 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1011",
-        "1012",
-        "1013",
-        "1014",
-        "1015",
+        "1018",
+        "1019",
+        "1020",
+        "1021",
+        "1022",
         "16",
         "36",
         "420",
@@ -20281,74 +20397,74 @@
       "degree": 10
     },
     {
-      "id": "1011",
+      "id": "1018",
       "name": "Leyi Xiao",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
-        "1012",
-        "1013",
-        "1014"
+        "1017",
+        "1019",
+        "1020",
+        "1021"
       ],
       "degree": 4
     },
     {
-      "id": "1012",
+      "id": "1019",
       "name": "Kangshun Liao",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
-        "1011",
-        "1013",
-        "1014"
+        "1017",
+        "1018",
+        "1020",
+        "1021"
       ],
       "degree": 4
     },
     {
-      "id": "1013",
+      "id": "1020",
       "name": "Baoxian Zhou",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
-        "1011",
-        "1012",
-        "1014"
+        "1017",
+        "1018",
+        "1019",
+        "1021"
       ],
       "degree": 4
     },
     {
-      "id": "1014",
+      "id": "1021",
       "name": "Chaodong Fan",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010",
-        "1011",
-        "1012",
-        "1013"
+        "1017",
+        "1018",
+        "1019",
+        "1020"
       ],
       "degree": 4
     },
     {
-      "id": "1015",
+      "id": "1022",
       "name": "Cognitive Computation",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1010"
+        "1017"
       ],
       "degree": 1
     },
     {
-      "id": "1016",
+      "id": "1023",
       "name": "Robust real-time GNSS satellite clock estimation using atomic clock models with anomaly detection and mitigation",
       "type": "paper",
       "paper_id": "10.1186/s43020-026-00225-9",
@@ -20365,87 +20481,87 @@
         "Remote Sensing"
       ],
       "category": "Downstream Task",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1017",
-        "1018",
-        "1019",
-        "1020",
-        "1021",
+        "1024",
+        "1025",
+        "1026",
+        "1027",
+        "1028",
         "7"
       ],
       "degree": 6
     },
     {
-      "id": "1017",
+      "id": "1024",
       "name": "Feiyu Mao",
       "type": "author",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1016",
-        "1018",
-        "1019",
-        "1020"
+        "1023",
+        "1025",
+        "1026",
+        "1027"
       ],
       "degree": 4
     },
     {
-      "id": "1018",
+      "id": "1025",
       "name": "Xiaopeng Gong",
       "type": "author",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1016",
-        "1017",
-        "1019",
-        "1020"
+        "1023",
+        "1024",
+        "1026",
+        "1027"
       ],
       "degree": 4
     },
     {
-      "id": "1019",
+      "id": "1026",
       "name": "Shengfeng Gu",
       "type": "author",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1016",
-        "1017",
-        "1018",
-        "1020"
+        "1023",
+        "1024",
+        "1025",
+        "1027"
       ],
       "degree": 4
     },
     {
-      "id": "1020",
+      "id": "1027",
       "name": "Yidong Lou",
       "type": "author",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1016",
-        "1017",
-        "1018",
-        "1019"
+        "1023",
+        "1024",
+        "1025",
+        "1026"
       ],
       "degree": 4
     },
     {
-      "id": "1021",
+      "id": "1028",
       "name": "Satellite Navigation",
       "type": "venue",
-      "cluster": 3,
+      "cluster": 4,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1016"
+        "1023"
       ],
       "degree": 1
     },
     {
-      "id": "1022",
+      "id": "1029",
       "name": "Comparative Analysis of Multimodal <scp>GANs</scp> for Cross‐Modal Information Retrieval",
       "type": "paper",
       "paper_id": "10.1002/widm.70140",
@@ -20471,17 +20587,17 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1023",
-        "1024",
-        "1025",
-        "1026",
-        "1027",
-        "1028",
-        "1029",
         "1030",
         "1031",
         "1032",
+        "1033",
+        "1034",
+        "1035",
+        "1036",
         "1037",
+        "1038",
+        "1039",
+        "1044",
         "287",
         "35",
         "36",
@@ -20490,162 +20606,162 @@
       "degree": 15
     },
     {
-      "id": "1023",
+      "id": "1030",
       "name": "Aamir Khan",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1024",
-        "1025",
-        "1026",
-        "1027",
-        "1028",
         "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1024",
-      "name": "S. Nisha Chandran",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1025",
-        "1026",
-        "1027",
-        "1028",
-        "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1025",
-      "name": "Krishna Mohan Pandey",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1026",
-        "1027",
-        "1028",
-        "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1026",
-      "name": "Khalid Mohiuddin",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1025",
-        "1027",
-        "1028",
-        "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1027",
-      "name": "Farhad Alam",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1025",
-        "1026",
-        "1028",
-        "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1028",
-      "name": "Shaweta Sachdeva",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1025",
-        "1026",
-        "1027",
-        "1029",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1029",
-      "name": "Sharik Ahmad",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1025",
-        "1026",
-        "1027",
-        "1028",
-        "1030"
-      ],
-      "degree": 8
-    },
-    {
-      "id": "1030",
-      "name": "D. R. Gangodkar",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1022",
-        "1023",
-        "1024",
-        "1025",
-        "1026",
-        "1027",
-        "1028",
-        "1029"
+        "1031",
+        "1032",
+        "1033",
+        "1034",
+        "1035",
+        "1036",
+        "1037"
       ],
       "degree": 8
     },
     {
       "id": "1031",
+      "name": "S. Nisha Chandran",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1032",
+        "1033",
+        "1034",
+        "1035",
+        "1036",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1032",
+      "name": "Krishna Mohan Pandey",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1033",
+        "1034",
+        "1035",
+        "1036",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1033",
+      "name": "Khalid Mohiuddin",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1032",
+        "1034",
+        "1035",
+        "1036",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1034",
+      "name": "Farhad Alam",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1032",
+        "1033",
+        "1035",
+        "1036",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1035",
+      "name": "Shaweta Sachdeva",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1032",
+        "1033",
+        "1034",
+        "1036",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1036",
+      "name": "Sharik Ahmad",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1032",
+        "1033",
+        "1034",
+        "1035",
+        "1037"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1037",
+      "name": "D. R. Gangodkar",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1029",
+        "1030",
+        "1031",
+        "1032",
+        "1033",
+        "1034",
+        "1035",
+        "1036"
+      ],
+      "degree": 8
+    },
+    {
+      "id": "1038",
       "name": "WIREs Data Mining and Knowledge Discovery",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022"
+        "1029"
       ],
       "degree": 1
     },
     {
-      "id": "1032",
+      "id": "1039",
       "name": "Beyond similarity retrieval: governance fidelity, consistency, and minimality in long-term conversational memory",
       "type": "paper",
       "paper_id": "10.1007/s41060-026-01290-8",
@@ -20669,12 +20785,12 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1033",
-        "1034",
-        "1035",
-        "1036",
-        "1037",
+        "1029",
+        "1040",
+        "1041",
+        "1042",
+        "1043",
+        "1044",
         "35",
         "389",
         "458",
@@ -20683,57 +20799,57 @@
       "degree": 10
     },
     {
-      "id": "1033",
+      "id": "1040",
       "name": "Oghenenefe Abeke",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1032",
-        "1034",
-        "1035"
+        "1039",
+        "1041",
+        "1042"
       ],
       "degree": 3
     },
     {
-      "id": "1034",
+      "id": "1041",
       "name": "Rasheed Mohammad",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1032",
-        "1033",
-        "1035"
+        "1039",
+        "1040",
+        "1042"
       ],
       "degree": 3
     },
     {
-      "id": "1035",
+      "id": "1042",
       "name": "Haitham Mahmoud",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1032",
-        "1033",
-        "1034"
+        "1039",
+        "1040",
+        "1041"
       ],
       "degree": 3
     },
     {
-      "id": "1036",
+      "id": "1043",
       "name": "International Journal of Data Science and Analytics",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1032"
+        "1039"
       ],
       "degree": 1
     },
     {
-      "id": "1037",
+      "id": "1044",
       "name": "An intelligent cybersecurity framework for banking systems: integrating neural networks, large language models, and federated learning for anti-money laundering and fraud detection",
       "type": "paper",
       "paper_id": "10.1186/s43093-026-01015-0",
@@ -20756,11 +20872,11 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1022",
-        "1032",
-        "1038",
+        "1029",
         "1039",
-        "1040",
+        "1045",
+        "1046",
+        "1047",
         "287",
         "317",
         "35",
@@ -20769,42 +20885,42 @@
       "degree": 9
     },
     {
-      "id": "1038",
+      "id": "1045",
       "name": "Tanvir Sajid",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1037",
-        "1039"
+        "1044",
+        "1046"
       ],
       "degree": 2
     },
     {
-      "id": "1039",
+      "id": "1046",
       "name": "Sajida Hafeez",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1037",
-        "1038"
+        "1044",
+        "1045"
       ],
       "degree": 2
     },
     {
-      "id": "1040",
+      "id": "1047",
       "name": "Future Business Journal",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1037"
+        "1044"
       ],
       "degree": 1
     },
     {
-      "id": "1041",
+      "id": "1048",
       "name": "Beyond classification: a systematic review of advanced predictive methodologies in retinal image analysis",
       "type": "paper",
       "paper_id": "10.1007/s42600-026-00499-7",
@@ -20826,109 +20942,109 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1042",
-        "1043",
-        "1044",
-        "1045",
-        "1046",
-        "1047",
-        "1072",
+        "1049",
+        "1050",
+        "1051",
+        "1052",
+        "1053",
+        "1054",
         "146",
         "16",
         "190",
         "35",
-        "541"
+        "541",
+        "880"
       ],
       "degree": 12
     },
     {
-      "id": "1042",
+      "id": "1049",
       "name": "Hitalo Silva",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1043",
-        "1044",
-        "1045",
-        "1046"
+        "1048",
+        "1050",
+        "1051",
+        "1052",
+        "1053"
       ],
       "degree": 5
     },
     {
-      "id": "1043",
+      "id": "1050",
       "name": "Arlington Rodrigues",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1042",
-        "1044",
-        "1045",
-        "1046"
+        "1048",
+        "1049",
+        "1051",
+        "1052",
+        "1053"
       ],
       "degree": 5
     },
     {
-      "id": "1044",
+      "id": "1051",
       "name": "Rafael Albuquerque",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1042",
-        "1043",
-        "1045",
-        "1046"
+        "1048",
+        "1049",
+        "1050",
+        "1052",
+        "1053"
       ],
       "degree": 5
     },
     {
-      "id": "1045",
+      "id": "1052",
       "name": "Diego Pinheiro",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1042",
-        "1043",
-        "1044",
-        "1046"
+        "1048",
+        "1049",
+        "1050",
+        "1051",
+        "1053"
       ],
       "degree": 5
     },
     {
-      "id": "1046",
+      "id": "1053",
       "name": "Carmelo Bastos-Filho",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041",
-        "1042",
-        "1043",
-        "1044",
-        "1045"
+        "1048",
+        "1049",
+        "1050",
+        "1051",
+        "1052"
       ],
       "degree": 5
     },
     {
-      "id": "1047",
+      "id": "1054",
       "name": "Research on Biomedical Engineering",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1041"
+        "1048"
       ],
       "degree": 1
     },
     {
-      "id": "1048",
+      "id": "1055",
       "name": "Damage detection, localization, and sizing in composite structures using modal shape and multi-head convolutional neural network",
       "type": "paper",
       "paper_id": "10.1007/s44379-026-00096-6",
@@ -20950,10 +21066,11 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1049",
-        "1050",
-        "1051",
-        "1052",
+        "1000",
+        "1056",
+        "1057",
+        "1058",
+        "1059",
         "16",
         "36",
         "560",
@@ -20962,48 +21079,47 @@
         "860",
         "870",
         "875",
-        "926",
-        "993"
+        "933"
       ],
       "degree": 14
     },
     {
-      "id": "1049",
+      "id": "1056",
       "name": "Ronny Francis Ribeiro Junior",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
-        "1050"
+        "1055",
+        "1057"
       ],
       "degree": 2
     },
     {
-      "id": "1050",
+      "id": "1057",
       "name": "Guilherme Ferreira Gomes",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
-        "1049"
+        "1055",
+        "1056"
       ],
       "degree": 2
     },
     {
-      "id": "1051",
+      "id": "1058",
       "name": "Machine Learning for Computational Science and Engineering",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048"
+        "1055"
       ],
       "degree": 1
     },
     {
-      "id": "1052",
+      "id": "1059",
       "name": "Compact hyperspectral-3D imaging system via lightweight spatial–spectral collaborative reconstruction",
       "type": "paper",
       "paper_id": "10.1364/prj.607958",
@@ -21025,19 +21141,19 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1048",
-        "1053",
-        "1054",
         "1055",
-        "1056",
-        "1057",
-        "1058",
-        "1059",
         "1060",
         "1061",
         "1062",
         "1063",
         "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
+        "1071",
         "16",
         "36",
         "645",
@@ -21049,260 +21165,260 @@
       "degree": 20
     },
     {
-      "id": "1053",
+      "id": "1060",
       "name": "Tongshuo Zhang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1054",
-      "name": "Zhenming Yu",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1055",
-      "name": "Wei Zhang",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1056",
-        "1057",
-        "1058",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1056",
-      "name": "Liming Cheng",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1057",
-        "1058",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1057",
-      "name": "Jingyue Ma",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1058",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1058",
-      "name": "Jiayu Di",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1059",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1059",
-      "name": "Ning Zhan",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
-        "1060",
-        "1061",
-        "1062",
-        "1063",
-        "648"
-      ],
-      "degree": 12
-    },
-    {
-      "id": "1060",
-      "name": "Liang Lin",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
         "1059",
         "1061",
         "1062",
         "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
         "648"
       ],
       "degree": 12
     },
     {
       "id": "1061",
-      "name": "Wenbo Ding",
+      "name": "Zhenming Yu",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
         "1059",
         "1060",
         "1062",
         "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
         "648"
       ],
       "degree": 12
     },
     {
       "id": "1062",
-      "name": "Zaiwei Cao",
+      "name": "Wei Zhang",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
         "1059",
         "1060",
         "1061",
         "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
         "648"
       ],
       "degree": 12
     },
     {
       "id": "1063",
-      "name": "Kun Xu",
+      "name": "Liming Cheng",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052",
-        "1053",
-        "1054",
-        "1055",
-        "1056",
-        "1057",
-        "1058",
         "1059",
         "1060",
         "1061",
         "1062",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
         "648"
       ],
       "degree": 12
     },
     {
       "id": "1064",
+      "name": "Jingyue Ma",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1065",
+      "name": "Jiayu Di",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1066",
+      "name": "Ning Zhan",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1065",
+        "1067",
+        "1068",
+        "1069",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1067",
+      "name": "Liang Lin",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1068",
+        "1069",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1068",
+      "name": "Wenbo Ding",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1069",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1069",
+      "name": "Zaiwei Cao",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1070",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1070",
+      "name": "Kun Xu",
+      "type": "author",
+      "cluster": 0,
+      "cluster_label": "Downstream Task",
+      "neighbors": [
+        "1059",
+        "1060",
+        "1061",
+        "1062",
+        "1063",
+        "1064",
+        "1065",
+        "1066",
+        "1067",
+        "1068",
+        "1069",
+        "648"
+      ],
+      "degree": 12
+    },
+    {
+      "id": "1071",
       "name": "Photonics Research",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1052"
+        "1059"
       ],
       "degree": 1
     },
     {
-      "id": "1065",
+      "id": "1072",
       "name": "Intraprocedural echocardiographic guidance in transcatheter mitral valve interventions: from procedure-specific workflows to integrated multimodal platforms",
       "type": "paper",
       "paper_id": "10.1186/s44348-026-00092-7",
@@ -21323,187 +21439,99 @@
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1066",
-        "1067",
-        "1068",
-        "1069",
-        "1070",
-        "1071",
+        "1000",
+        "1073",
+        "1074",
+        "1075",
+        "1076",
+        "1077",
+        "1078",
         "16",
         "205",
         "35",
         "865",
-        "989",
-        "993"
+        "996"
       ],
       "degree": 12
     },
     {
-      "id": "1066",
+      "id": "1073",
       "name": "Stan A. Benjamins",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
-        "1067",
-        "1068",
-        "1069",
-        "1070"
+        "1072",
+        "1074",
+        "1075",
+        "1076",
+        "1077"
       ],
       "degree": 5
     },
     {
-      "id": "1067",
+      "id": "1074",
       "name": "Martijn G. H. Vrijkorte",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
-        "1066",
-        "1068",
-        "1069",
-        "1070"
+        "1072",
+        "1073",
+        "1075",
+        "1076",
+        "1077"
       ],
       "degree": 5
     },
     {
-      "id": "1068",
+      "id": "1075",
       "name": "Leo Timmers",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
-        "1066",
-        "1067",
-        "1069",
-        "1070"
+        "1072",
+        "1073",
+        "1074",
+        "1076",
+        "1077"
       ],
       "degree": 5
     },
     {
-      "id": "1069",
+      "id": "1076",
       "name": "Benno J. W. M. Rensing",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
-        "1066",
-        "1067",
-        "1068",
-        "1070"
+        "1072",
+        "1073",
+        "1074",
+        "1075",
+        "1077"
       ],
       "degree": 5
     },
     {
-      "id": "1070",
+      "id": "1077",
       "name": "Martin J. Swaans",
       "type": "author",
       "cluster": 0,
       "cluster_label": "Downstream Task",
       "neighbors": [
-        "1065",
-        "1066",
-        "1067",
-        "1068",
-        "1069"
+        "1072",
+        "1073",
+        "1074",
+        "1075",
+        "1076"
       ],
       "degree": 5
     },
     {
-      "id": "1071",
+      "id": "1078",
       "name": "Journal of Cardiovascular Imaging",
-      "type": "venue",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1065"
-      ],
-      "degree": 1
-    },
-    {
-      "id": "1072",
-      "name": "Modern generative large language models in epilepsy care: a scoping review of current applications, challenges, and future directions",
-      "type": "paper",
-      "paper_id": "10.1186/s42494-026-00271-5",
-      "source_name": "Crossref",
-      "year": "2026",
-      "published": "2026-12-01",
-      "updated": "2026-09-01",
-      "venue": "Acta Epileptologica",
-      "url": "https://doi.org/10.1186/s42494-026-00271-5",
-      "pdf_url": "",
-      "doi": "10.1186/s42494-026-00271-5",
-      "abstract": "Abstract Modern generative large language models (LLMs) are increasingly being evaluated in epilepsy-related clinical tasks, but the evidence remains fragmented and their safe clinical role is uncertain. We conducted a scoping review following the PRISMA-ScR framework, searching PubMed, Embase, and the Web of Science Core Collection from inception to May 2026, to map current applications of modern generative LLMs in epilepsy-related clinical contexts and identify their reported benefits, limitations, and research gaps. Eligible studies evaluated generative LLMs or generative foundation models as the primary analytical or assistive engine in clinical or clinically oriented epilepsy tasks; non-generative natural language processing, conventional machine-learning, and signal-modeling studies served as contextual comparators only. Two reviewers independently screened records and extracted data for descriptive mapping and narrative synthesis. Twenty-four studies were included. Evidence was relatively more developed for text-centered tasks, including information extraction from electronic health records, question answering, and documentation support, while applications in differential diagnosis, presurgical evaluation, prognostic assessment, and patient communication remained early-stage. Across studies, the evidence base was heterogeneous, with frequent reliance on retrospective or simulated designs, single-center data, and limited external validation, alongside persistent concerns about hallucination, bias, model opacity, and workflow integration. Current evidence suggests a limited role for cautious, clinician-supervised use of generative LLMs in selected text-heavy epilepsy tasks, particularly extraction, summarization, documentation support, and patient education, but falls short of justifying independent or routine clinical deployment. Future studies should use narrower task definitions, epilepsy-specific datasets, transparent reporting of model versions and prompt design, external validation, and explicit documentation of clinician verification workflows.",
-      "topics": [
-        "Foundation Models",
-        "Vision-Language",
-        "Geospatial AI",
-        "Urban",
-        "Data"
-      ],
-      "category": "Foundation Model",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1041",
-        "1073",
-        "1074",
-        "1075",
-        "1076",
-        "146",
-        "16",
-        "190",
-        "35",
-        "541"
-      ],
-      "degree": 10
-    },
-    {
-      "id": "1073",
-      "name": "Shihao Ge",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1072",
-        "1074",
-        "1075"
-      ],
-      "degree": 3
-    },
-    {
-      "id": "1074",
-      "name": "Yueqian Sun",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1072",
-        "1073",
-        "1075"
-      ],
-      "degree": 3
-    },
-    {
-      "id": "1075",
-      "name": "Qun Wang",
-      "type": "author",
-      "cluster": 0,
-      "cluster_label": "Downstream Task",
-      "neighbors": [
-        "1072",
-        "1073",
-        "1074"
-      ],
-      "degree": 3
-    },
-    {
-      "id": "1076",
-      "name": "Acta Epileptologica",
       "type": "venue",
       "cluster": 0,
       "cluster_label": "Downstream Task",
@@ -28572,13 +28600,7 @@
     },
     {
       "source": "919",
-      "target": "83",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "919",
-      "target": "7",
+      "target": "16",
       "type": "has_topic",
       "weight": 0.9
     },
@@ -28615,30 +28637,6 @@
     {
       "source": "926",
       "target": "932",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "926",
-      "target": "933",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "926",
-      "target": "934",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "926",
-      "target": "935",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "926",
-      "target": "936",
       "type": "published_in",
       "weight": 0.8
     },
@@ -28650,55 +28648,79 @@
     },
     {
       "source": "926",
-      "target": "16",
+      "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "937",
+      "source": "933",
+      "target": "934",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "933",
+      "target": "935",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "933",
+      "target": "936",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "933",
+      "target": "937",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "933",
       "target": "938",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "937",
+      "source": "933",
       "target": "939",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "937",
+      "source": "933",
       "target": "940",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "937",
+      "source": "933",
       "target": "941",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "937",
+      "source": "933",
       "target": "942",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "937",
+      "source": "933",
       "target": "943",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "937",
-      "target": "112",
+      "source": "933",
+      "target": "83",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "937",
-      "target": "7",
+      "source": "933",
+      "target": "16",
       "type": "has_topic",
       "weight": 0.9
     },
@@ -28735,690 +28757,684 @@
     {
       "source": "944",
       "target": "950",
-      "type": "authored_by",
-      "weight": 1.0
+      "type": "published_in",
+      "weight": 0.8
     },
     {
       "source": "944",
-      "target": "951",
-      "type": "authored_by",
-      "weight": 1.0
+      "target": "112",
+      "type": "has_topic",
+      "weight": 0.9
     },
     {
       "source": "944",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "951",
       "target": "952",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "944",
+      "source": "951",
       "target": "953",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "944",
+      "source": "951",
       "target": "954",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "944",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "951",
+      "target": "955",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "944",
-      "target": "7",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "955",
+      "source": "951",
       "target": "956",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "955",
+      "source": "951",
       "target": "957",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "955",
+      "source": "951",
       "target": "958",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "955",
+      "source": "951",
       "target": "959",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "951",
+      "target": "960",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "951",
+      "target": "961",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "955",
+      "source": "951",
+      "target": "35",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "951",
       "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "960",
-      "target": "961",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "960",
-      "target": "962",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "960",
+      "source": "962",
       "target": "963",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "960",
+      "source": "962",
       "target": "964",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "962",
+      "target": "965",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "962",
+      "target": "966",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "960",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "960",
+      "source": "962",
       "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "965",
-      "target": "966",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "965",
-      "target": "967",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "965",
+      "source": "967",
       "target": "968",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "965",
+      "source": "967",
       "target": "969",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "965",
-      "target": "7",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "967",
+      "target": "970",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "970",
+      "source": "967",
       "target": "971",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "970",
-      "target": "972",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "970",
-      "target": "973",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "970",
+      "source": "967",
+      "target": "35",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "967",
       "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "970",
-      "target": "527",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "972",
+      "target": "973",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "972",
+      "target": "974",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "972",
       "target": "975",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "972",
       "target": "976",
-      "type": "authored_by",
-      "weight": 1.0
+      "type": "published_in",
+      "weight": 0.8
     },
     {
-      "source": "974",
-      "target": "977",
-      "type": "authored_by",
-      "weight": 1.0
+      "source": "972",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
     },
     {
-      "source": "974",
+      "source": "977",
       "target": "978",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "977",
       "target": "979",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "977",
       "target": "980",
-      "type": "authored_by",
-      "weight": 1.0
+      "type": "published_in",
+      "weight": 0.8
     },
     {
-      "source": "974",
-      "target": "981",
-      "type": "authored_by",
-      "weight": 1.0
+      "source": "977",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
     },
     {
-      "source": "974",
+      "source": "977",
+      "target": "527",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "981",
       "target": "982",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "983",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "984",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "985",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "986",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "987",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "974",
+      "source": "981",
       "target": "988",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "974",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "981",
+      "target": "989",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "989",
+      "source": "981",
       "target": "990",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "989",
+      "source": "981",
       "target": "991",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "989",
+      "source": "981",
       "target": "992",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "989",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "981",
+      "target": "993",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "989",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "993",
+      "source": "981",
       "target": "994",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "993",
+      "source": "981",
       "target": "995",
-      "type": "authored_by",
-      "weight": 1.0
+      "type": "published_in",
+      "weight": 0.8
     },
     {
-      "source": "993",
-      "target": "996",
-      "type": "authored_by",
-      "weight": 1.0
+      "source": "981",
+      "target": "16",
+      "type": "has_topic",
+      "weight": 0.9
     },
     {
-      "source": "993",
+      "source": "996",
       "target": "997",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "993",
+      "source": "996",
       "target": "998",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "993",
+      "source": "996",
       "target": "999",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "993",
-      "target": "1000",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "993",
+      "source": "996",
       "target": "35",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "993",
-      "target": "83",
+      "source": "996",
+      "target": "16",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "993",
-      "target": "7",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "1000",
+      "target": "1001",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "1001",
+      "source": "1000",
       "target": "1002",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1001",
+      "source": "1000",
       "target": "1003",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1001",
+      "source": "1000",
       "target": "1004",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1001",
+      "source": "1000",
       "target": "1005",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1000",
+      "target": "1006",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1000",
+      "target": "1007",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "1001",
+      "source": "1000",
+      "target": "35",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1000",
       "target": "83",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1001",
+      "source": "1000",
       "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1006",
-      "target": "1007",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1006",
-      "target": "1008",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1006",
+      "source": "1008",
       "target": "1009",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "1006",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
+      "source": "1008",
+      "target": "1010",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
-      "source": "1010",
+      "source": "1008",
       "target": "1011",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1010",
+      "source": "1008",
       "target": "1012",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1010",
-      "target": "1013",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1010",
-      "target": "1014",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1010",
-      "target": "1015",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "1010",
-      "target": "36",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1010",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1016",
-      "target": "1017",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1016",
-      "target": "1018",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1016",
-      "target": "1019",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1016",
-      "target": "1020",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1016",
-      "target": "1021",
-      "type": "published_in",
-      "weight": 0.8
-    },
-    {
-      "source": "1016",
-      "target": "7",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1022",
-      "target": "1023",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1024",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1025",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1026",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1027",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1028",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1029",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1030",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1022",
-      "target": "1031",
-      "type": "published_in",
-      "weight": 0.8
-    },
-    {
-      "source": "1022",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1022",
-      "target": "36",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1022",
-      "target": "389",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1032",
-      "target": "1033",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1032",
-      "target": "1034",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1032",
-      "target": "1035",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1032",
-      "target": "1036",
-      "type": "published_in",
-      "weight": 0.8
-    },
-    {
-      "source": "1032",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1032",
-      "target": "389",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1032",
+      "source": "1008",
       "target": "83",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1037",
-      "target": "1038",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1037",
-      "target": "1039",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1037",
-      "target": "1040",
-      "type": "published_in",
-      "weight": 0.8
-    },
-    {
-      "source": "1037",
-      "target": "35",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1037",
+      "source": "1008",
       "target": "7",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1037",
-      "target": "317",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1041",
-      "target": "1042",
+      "source": "1013",
+      "target": "1014",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1041",
-      "target": "1043",
+      "source": "1013",
+      "target": "1015",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1041",
-      "target": "1044",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1041",
-      "target": "1045",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1041",
-      "target": "1046",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1041",
-      "target": "1047",
+      "source": "1013",
+      "target": "1016",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "1041",
-      "target": "146",
+      "source": "1013",
+      "target": "16",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1041",
+      "source": "1017",
+      "target": "1018",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1017",
+      "target": "1019",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1017",
+      "target": "1020",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1017",
+      "target": "1021",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1017",
+      "target": "1022",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1017",
+      "target": "36",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1017",
+      "target": "16",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1023",
+      "target": "1024",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1023",
+      "target": "1025",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1023",
+      "target": "1026",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1023",
+      "target": "1027",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1023",
+      "target": "1028",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1023",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1029",
+      "target": "1030",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1031",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1032",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1033",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1034",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1035",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1036",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1037",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1029",
+      "target": "1038",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1029",
       "target": "35",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1041",
-      "target": "16",
+      "source": "1029",
+      "target": "36",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1029",
+      "target": "389",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1039",
+      "target": "1040",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1039",
+      "target": "1041",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1039",
+      "target": "1042",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1039",
+      "target": "1043",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1039",
+      "target": "35",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1039",
+      "target": "389",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1039",
+      "target": "83",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1044",
+      "target": "1045",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1044",
+      "target": "1046",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1044",
+      "target": "1047",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1044",
+      "target": "35",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1044",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1044",
+      "target": "317",
       "type": "has_topic",
       "weight": 0.9
     },
@@ -29437,167 +29453,173 @@
     {
       "source": "1048",
       "target": "1051",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
       "source": "1048",
-      "target": "36",
-      "type": "has_topic",
-      "weight": 0.9
+      "target": "1052",
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
       "source": "1048",
-      "target": "83",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1048",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1052",
       "target": "1053",
       "type": "authored_by",
       "weight": 1.0
     },
     {
-      "source": "1052",
+      "source": "1048",
       "target": "1054",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1055",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1056",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1057",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1058",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1059",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1060",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "648",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1061",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1062",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1063",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1052",
-      "target": "1064",
       "type": "published_in",
       "weight": 0.8
     },
     {
-      "source": "1052",
-      "target": "36",
+      "source": "1048",
+      "target": "146",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1052",
-      "target": "7",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1052",
-      "target": "16",
-      "type": "has_topic",
-      "weight": 0.9
-    },
-    {
-      "source": "1065",
-      "target": "1066",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1065",
-      "target": "1067",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1065",
-      "target": "1068",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1065",
-      "target": "1069",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1065",
-      "target": "1070",
-      "type": "authored_by",
-      "weight": 1.0
-    },
-    {
-      "source": "1065",
-      "target": "1071",
-      "type": "published_in",
-      "weight": 0.8
-    },
-    {
-      "source": "1065",
+      "source": "1048",
       "target": "35",
       "type": "has_topic",
       "weight": 0.9
     },
     {
-      "source": "1065",
+      "source": "1048",
+      "target": "16",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1055",
+      "target": "1056",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1055",
+      "target": "1057",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1055",
+      "target": "1058",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1055",
+      "target": "36",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1055",
+      "target": "83",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1055",
+      "target": "16",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1059",
+      "target": "1060",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1061",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1062",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1063",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1064",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1065",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1066",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1067",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "648",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1068",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1069",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1070",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1059",
+      "target": "1071",
+      "type": "published_in",
+      "weight": 0.8
+    },
+    {
+      "source": "1059",
+      "target": "36",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1059",
+      "target": "7",
+      "type": "has_topic",
+      "weight": 0.9
+    },
+    {
+      "source": "1059",
       "target": "16",
       "type": "has_topic",
       "weight": 0.9
@@ -29623,14 +29645,20 @@
     {
       "source": "1072",
       "target": "1076",
-      "type": "published_in",
-      "weight": 0.8
+      "type": "authored_by",
+      "weight": 1.0
     },
     {
       "source": "1072",
-      "target": "146",
-      "type": "has_topic",
-      "weight": 0.9
+      "target": "1077",
+      "type": "authored_by",
+      "weight": 1.0
+    },
+    {
+      "source": "1072",
+      "target": "1078",
+      "type": "published_in",
+      "weight": 0.8
     },
     {
       "source": "1072",
@@ -41213,30 +41241,6 @@
       "weight": 1.0
     },
     {
-      "source": "927",
-      "target": "932",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "927",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "927",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "927",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "928",
       "target": "929",
       "type": "coauthor",
@@ -41255,30 +41259,6 @@
       "weight": 1.0
     },
     {
-      "source": "928",
-      "target": "932",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "928",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "928",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "928",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "929",
       "target": "930",
       "type": "coauthor",
@@ -41291,116 +41271,164 @@
       "weight": 1.0
     },
     {
-      "source": "929",
-      "target": "932",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "929",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "929",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "929",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "930",
       "target": "931",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "930",
-      "target": "932",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "930",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "930",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "930",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "931",
-      "target": "932",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "931",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "931",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "931",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "932",
-      "target": "933",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "932",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "932",
-      "target": "935",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "933",
-      "target": "934",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "933",
+      "source": "934",
       "target": "935",
       "type": "coauthor",
       "weight": 1.0
     },
     {
       "source": "934",
-      "target": "935",
+      "target": "936",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "937",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "938",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "939",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "940",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "941",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "934",
+      "target": "942",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "936",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "937",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "938",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "939",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "940",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "941",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "935",
+      "target": "942",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "937",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "938",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "939",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "940",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "941",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "936",
+      "target": "942",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "937",
+      "target": "938",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "937",
+      "target": "939",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "937",
+      "target": "940",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "937",
+      "target": "941",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "937",
+      "target": "942",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -41489,30 +41517,6 @@
       "weight": 1.0
     },
     {
-      "source": "945",
-      "target": "950",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "945",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "945",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "945",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "946",
       "target": "947",
       "type": "coauthor",
@@ -41531,30 +41535,6 @@
       "weight": 1.0
     },
     {
-      "source": "946",
-      "target": "950",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "946",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "946",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "946",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "947",
       "target": "948",
       "type": "coauthor",
@@ -41567,116 +41547,164 @@
       "weight": 1.0
     },
     {
-      "source": "947",
-      "target": "950",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "947",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "947",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "947",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "948",
       "target": "949",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "948",
-      "target": "950",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "948",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "948",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "948",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "949",
-      "target": "950",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "949",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "949",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "949",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "950",
-      "target": "951",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "950",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "950",
-      "target": "953",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "951",
-      "target": "952",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "951",
+      "source": "952",
       "target": "953",
       "type": "coauthor",
       "weight": 1.0
     },
     {
       "source": "952",
-      "target": "953",
+      "target": "954",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "955",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "956",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "957",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "958",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "959",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "952",
+      "target": "960",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "954",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "955",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "956",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "957",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "958",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "959",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "953",
+      "target": "960",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "955",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "956",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "957",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "958",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "959",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "954",
+      "target": "960",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "955",
+      "target": "956",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "955",
+      "target": "957",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "955",
+      "target": "958",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "955",
+      "target": "959",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "955",
+      "target": "960",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -41693,248 +41721,104 @@
       "weight": 1.0
     },
     {
+      "source": "956",
+      "target": "959",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "956",
+      "target": "960",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "957",
       "target": "958",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "961",
-      "target": "962",
+      "source": "957",
+      "target": "959",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "961",
-      "target": "963",
+      "source": "957",
+      "target": "960",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "962",
-      "target": "963",
+      "source": "958",
+      "target": "959",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "966",
-      "target": "967",
+      "source": "958",
+      "target": "960",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "966",
-      "target": "968",
+      "source": "959",
+      "target": "960",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "967",
-      "target": "968",
+      "source": "963",
+      "target": "964",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "971",
-      "target": "972",
+      "source": "963",
+      "target": "965",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "976",
+      "source": "964",
+      "target": "965",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "977",
+      "source": "968",
+      "target": "969",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "978",
+      "source": "968",
+      "target": "970",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "979",
+      "source": "969",
+      "target": "970",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "980",
+      "source": "973",
+      "target": "974",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "981",
+      "source": "973",
+      "target": "975",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "975",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "975",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "975",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "975",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "975",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "975",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "977",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "978",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "979",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "980",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "981",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "976",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "978",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "979",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "980",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "981",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "977",
-      "target": "987",
+      "source": "974",
+      "target": "975",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -41945,180 +41829,6 @@
       "weight": 1.0
     },
     {
-      "source": "978",
-      "target": "980",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "981",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "978",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "980",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "981",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "979",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "981",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "980",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "982",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "983",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "984",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "985",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "986",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "981",
-      "target": "987",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "982",
       "target": "983",
       "type": "coauthor",
@@ -42145,6 +41855,48 @@
     {
       "source": "982",
       "target": "987",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "982",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42169,6 +41921,48 @@
     {
       "source": "983",
       "target": "987",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "983",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42187,6 +41981,48 @@
     {
       "source": "984",
       "target": "987",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "984",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42199,6 +42035,48 @@
     {
       "source": "985",
       "target": "987",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "985",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42209,80 +42087,212 @@
       "weight": 1.0
     },
     {
+      "source": "986",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "986",
+      "target": "994",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "988",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "987",
+      "target": "994",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "989",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "988",
+      "target": "994",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "989",
+      "target": "990",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "989",
+      "target": "991",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "989",
+      "target": "992",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "989",
+      "target": "993",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "989",
+      "target": "994",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "990",
       "target": "991",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "994",
-      "target": "995",
+      "source": "990",
+      "target": "992",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "994",
-      "target": "996",
+      "source": "990",
+      "target": "993",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "994",
-      "target": "997",
+      "source": "990",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "994",
-      "target": "998",
+      "source": "991",
+      "target": "992",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "994",
-      "target": "999",
+      "source": "991",
+      "target": "993",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "995",
-      "target": "996",
+      "source": "991",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "995",
-      "target": "997",
+      "source": "992",
+      "target": "993",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "995",
-      "target": "998",
+      "source": "992",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "995",
-      "target": "999",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "996",
-      "target": "997",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "996",
-      "target": "998",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "996",
-      "target": "999",
+      "source": "993",
+      "target": "994",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42293,14 +42303,32 @@
       "weight": 1.0
     },
     {
-      "source": "997",
-      "target": "999",
+      "source": "1001",
+      "target": "1002",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "998",
-      "target": "999",
+      "source": "1001",
+      "target": "1003",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1001",
+      "target": "1004",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1001",
+      "target": "1005",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1001",
+      "target": "1006",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42317,68 +42345,74 @@
       "weight": 1.0
     },
     {
+      "source": "1002",
+      "target": "1005",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1002",
+      "target": "1006",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "1003",
       "target": "1004",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1007",
-      "target": "1008",
+      "source": "1003",
+      "target": "1005",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1011",
-      "target": "1012",
+      "source": "1003",
+      "target": "1006",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1011",
-      "target": "1013",
+      "source": "1004",
+      "target": "1005",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1011",
-      "target": "1014",
+      "source": "1004",
+      "target": "1006",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1012",
-      "target": "1013",
+      "source": "1005",
+      "target": "1006",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1012",
-      "target": "1014",
+      "source": "1009",
+      "target": "1010",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1013",
-      "target": "1014",
+      "source": "1009",
+      "target": "1011",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1017",
-      "target": "1018",
+      "source": "1010",
+      "target": "1011",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1017",
-      "target": "1019",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1017",
-      "target": "1020",
+      "source": "1014",
+      "target": "1015",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42391,6 +42425,12 @@
     {
       "source": "1018",
       "target": "1020",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1018",
+      "target": "1021",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42401,44 +42441,14 @@
       "weight": 1.0
     },
     {
-      "source": "1023",
-      "target": "1024",
+      "source": "1019",
+      "target": "1021",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1023",
-      "target": "1025",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1023",
-      "target": "1026",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1023",
-      "target": "1027",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1023",
-      "target": "1028",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1023",
-      "target": "1029",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1023",
-      "target": "1030",
+      "source": "1020",
+      "target": "1021",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42461,24 +42471,6 @@
       "weight": 1.0
     },
     {
-      "source": "1024",
-      "target": "1028",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1024",
-      "target": "1029",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1024",
-      "target": "1030",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "1025",
       "target": "1026",
       "type": "coauthor",
@@ -42491,80 +42483,116 @@
       "weight": 1.0
     },
     {
-      "source": "1025",
-      "target": "1028",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1025",
-      "target": "1029",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1025",
-      "target": "1030",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
       "source": "1026",
       "target": "1027",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1026",
-      "target": "1028",
+      "source": "1030",
+      "target": "1031",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1026",
-      "target": "1029",
+      "source": "1030",
+      "target": "1032",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1026",
-      "target": "1030",
+      "source": "1030",
+      "target": "1033",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1027",
-      "target": "1028",
+      "source": "1030",
+      "target": "1034",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1027",
-      "target": "1029",
+      "source": "1030",
+      "target": "1035",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1027",
-      "target": "1030",
+      "source": "1030",
+      "target": "1036",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1028",
-      "target": "1029",
+      "source": "1030",
+      "target": "1037",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1028",
-      "target": "1030",
+      "source": "1031",
+      "target": "1032",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1029",
-      "target": "1030",
+      "source": "1031",
+      "target": "1033",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1031",
+      "target": "1034",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1031",
+      "target": "1035",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1031",
+      "target": "1036",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1031",
+      "target": "1037",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1032",
+      "target": "1033",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1032",
+      "target": "1034",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1032",
+      "target": "1035",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1032",
+      "target": "1036",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1032",
+      "target": "1037",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42581,68 +42609,68 @@
       "weight": 1.0
     },
     {
+      "source": "1033",
+      "target": "1036",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1033",
+      "target": "1037",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "1034",
       "target": "1035",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1038",
-      "target": "1039",
+      "source": "1034",
+      "target": "1036",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1042",
-      "target": "1043",
+      "source": "1034",
+      "target": "1037",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1042",
-      "target": "1044",
+      "source": "1035",
+      "target": "1036",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1042",
-      "target": "1045",
+      "source": "1035",
+      "target": "1037",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1042",
-      "target": "1046",
+      "source": "1036",
+      "target": "1037",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1043",
-      "target": "1044",
+      "source": "1040",
+      "target": "1041",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1043",
-      "target": "1045",
+      "source": "1040",
+      "target": "1042",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1043",
-      "target": "1046",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1044",
-      "target": "1045",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1044",
-      "target": "1046",
+      "source": "1041",
+      "target": "1042",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -42659,344 +42687,62 @@
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1054",
+      "source": "1049",
+      "target": "1051",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1055",
+      "source": "1049",
+      "target": "1052",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1056",
+      "source": "1049",
+      "target": "1053",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1057",
+      "source": "1050",
+      "target": "1051",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1058",
+      "source": "1050",
+      "target": "1052",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1059",
+      "source": "1050",
+      "target": "1053",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1060",
+      "source": "1051",
+      "target": "1052",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "648",
+      "source": "1051",
+      "target": "1053",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1053",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1053",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1053",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1055",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1056",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1057",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1058",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1059",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1054",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1056",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1057",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1058",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1059",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1055",
-      "target": "1063",
+      "source": "1052",
+      "target": "1053",
       "type": "coauthor",
       "weight": 1.0
     },
     {
       "source": "1056",
       "target": "1057",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1058",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1059",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1056",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1058",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1059",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1057",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "1059",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1058",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1059",
-      "target": "1060",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1059",
-      "target": "648",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1059",
-      "target": "1061",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1059",
-      "target": "1062",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1059",
-      "target": "1063",
-      "type": "coauthor",
-      "weight": 1.0
-    },
-    {
-      "source": "1060",
-      "target": "648",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43015,6 +42761,90 @@
     {
       "source": "1060",
       "target": "1063",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1064",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1065",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1067",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1068",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1069",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1060",
+      "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1062",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1063",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1064",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1065",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1067",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43025,8 +42855,98 @@
       "weight": 1.0
     },
     {
+      "source": "1061",
+      "target": "1068",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1069",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1061",
+      "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1063",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1064",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1065",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1067",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "1062",
       "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1068",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1069",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1062",
+      "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1063",
+      "target": "1064",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1063",
+      "target": "1065",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1063",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1063",
+      "target": "1067",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43037,20 +42957,98 @@
       "weight": 1.0
     },
     {
-      "source": "1061",
-      "target": "1062",
+      "source": "1063",
+      "target": "1068",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1061",
-      "target": "1063",
+      "source": "1063",
+      "target": "1069",
       "type": "coauthor",
       "weight": 1.0
     },
     {
-      "source": "1062",
-      "target": "1063",
+      "source": "1063",
+      "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1065",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1067",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1068",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1069",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1064",
+      "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "1066",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "1067",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "1068",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "1069",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1065",
+      "target": "1070",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43062,6 +43060,12 @@
     },
     {
       "source": "1066",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1066",
       "target": "1068",
       "type": "coauthor",
       "weight": 1.0
@@ -43080,6 +43084,12 @@
     },
     {
       "source": "1067",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1067",
       "target": "1068",
       "type": "coauthor",
       "weight": 1.0
@@ -43093,6 +43103,24 @@
     {
       "source": "1067",
       "target": "1070",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1068",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1069",
+      "target": "648",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1070",
+      "target": "648",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43127,8 +43155,50 @@
       "weight": 1.0
     },
     {
+      "source": "1073",
+      "target": "1076",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1073",
+      "target": "1077",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
       "source": "1074",
       "target": "1075",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1074",
+      "target": "1076",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1074",
+      "target": "1077",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1075",
+      "target": "1076",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1075",
+      "target": "1077",
+      "type": "coauthor",
+      "weight": 1.0
+    },
+    {
+      "source": "1076",
+      "target": "1077",
       "type": "coauthor",
       "weight": 1.0
     },
@@ -43266,7 +43336,7 @@
     },
     {
       "source": "645",
-      "target": "1052",
+      "target": "1059",
       "type": "related_paper",
       "weight": 0.7905
     },
@@ -43974,7 +44044,7 @@
     },
     {
       "source": "107",
-      "target": "937",
+      "target": "944",
       "type": "related_paper",
       "weight": 0.5626
     },
@@ -44052,7 +44122,7 @@
     },
     {
       "source": "56",
-      "target": "1010",
+      "target": "1017",
       "type": "related_paper",
       "weight": 0.555
     },
@@ -44190,7 +44260,7 @@
     },
     {
       "source": "577",
-      "target": "970",
+      "target": "977",
       "type": "related_paper",
       "weight": 0.5436
     },
@@ -44220,7 +44290,7 @@
     },
     {
       "source": "420",
-      "target": "1010",
+      "target": "1017",
       "type": "related_paper",
       "weight": 0.54
     },
@@ -44388,13 +44458,13 @@
     },
     {
       "source": "343",
-      "target": "937",
+      "target": "944",
       "type": "related_paper",
       "weight": 0.5185
     },
     {
       "source": "582",
-      "target": "1010",
+      "target": "1017",
       "type": "related_paper",
       "weight": 0.5185
     },
@@ -44472,7 +44542,7 @@
     },
     {
       "source": "499",
-      "target": "937",
+      "target": "944",
       "type": "related_paper",
       "weight": 0.5041
     },
@@ -44598,7 +44668,7 @@
     },
     {
       "source": "522",
-      "target": "970",
+      "target": "977",
       "type": "related_paper",
       "weight": 0.4768
     },
@@ -44610,13 +44680,13 @@
     },
     {
       "source": "607",
-      "target": "944",
+      "target": "951",
       "type": "related_paper",
       "weight": 0.476
     },
     {
       "source": "611",
-      "target": "970",
+      "target": "977",
       "type": "related_paper",
       "weight": 0.476
     },
@@ -44658,13 +44728,13 @@
     },
     {
       "source": "32",
-      "target": "944",
+      "target": "951",
       "type": "related_paper",
       "weight": 0.4689
     },
     {
       "source": "70",
-      "target": "944",
+      "target": "951",
       "type": "related_paper",
       "weight": 0.4689
     },
@@ -44861,8 +44931,8 @@
       "weight": 0.4369
     },
     {
-      "source": "960",
-      "target": "993",
+      "source": "967",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4363
     },
@@ -44880,7 +44950,7 @@
     },
     {
       "source": "806",
-      "target": "1001",
+      "target": "1008",
       "type": "related_paper",
       "weight": 0.4345
     },
@@ -44928,25 +44998,25 @@
     },
     {
       "source": "373",
-      "target": "1001",
+      "target": "1008",
       "type": "related_paper",
       "weight": 0.4286
     },
     {
-      "source": "993",
-      "target": "1048",
+      "source": "1000",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4285
     },
     {
       "source": "860",
-      "target": "1048",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.428
     },
     {
       "source": "870",
-      "target": "993",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4271
     },
@@ -44957,14 +45027,14 @@
       "weight": 0.4267
     },
     {
-      "source": "1022",
-      "target": "1037",
+      "source": "1029",
+      "target": "1044",
       "type": "related_paper",
       "weight": 0.4267
     },
     {
       "source": "287",
-      "target": "1022",
+      "target": "1029",
       "type": "related_paper",
       "weight": 0.4264
     },
@@ -44976,13 +45046,13 @@
     },
     {
       "source": "875",
-      "target": "1052",
+      "target": "1059",
       "type": "related_paper",
       "weight": 0.4254
     },
     {
       "source": "259",
-      "target": "1001",
+      "target": "1008",
       "type": "related_paper",
       "weight": 0.425
     },
@@ -45017,8 +45087,8 @@
       "weight": 0.4214
     },
     {
-      "source": "993",
-      "target": "1065",
+      "source": "1000",
+      "target": "1072",
       "type": "related_paper",
       "weight": 0.4212
     },
@@ -45030,31 +45100,31 @@
     },
     {
       "source": "875",
-      "target": "1048",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4189
     },
     {
       "source": "870",
-      "target": "1048",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4179
     },
     {
-      "source": "919",
-      "target": "993",
+      "source": "926",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4175
     },
     {
-      "source": "1048",
-      "target": "1052",
+      "source": "1055",
+      "target": "1059",
       "type": "related_paper",
       "weight": 0.4169
     },
     {
       "source": "851",
-      "target": "1048",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4165
     },
@@ -45084,7 +45154,7 @@
     },
     {
       "source": "860",
-      "target": "993",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4156
     },
@@ -45120,31 +45190,31 @@
     },
     {
       "source": "860",
-      "target": "1052",
+      "target": "1059",
       "type": "related_paper",
       "weight": 0.4131
     },
     {
       "source": "860",
-      "target": "919",
+      "target": "926",
       "type": "related_paper",
       "weight": 0.4129
     },
     {
       "source": "742",
-      "target": "989",
+      "target": "996",
       "type": "related_paper",
       "weight": 0.4126
     },
     {
-      "source": "926",
-      "target": "993",
+      "source": "933",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4124
     },
     {
       "source": "97",
-      "target": "960",
+      "target": "967",
       "type": "related_paper",
       "weight": 0.4121
     },
@@ -45167,8 +45237,8 @@
       "weight": 0.4116
     },
     {
-      "source": "989",
-      "target": "993",
+      "source": "996",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4111
     },
@@ -45179,38 +45249,32 @@
       "weight": 0.411
     },
     {
-      "source": "989",
-      "target": "1065",
+      "source": "996",
+      "target": "1072",
       "type": "related_paper",
       "weight": 0.4109
     },
     {
-      "source": "1032",
-      "target": "1037",
+      "source": "1039",
+      "target": "1044",
       "type": "related_paper",
       "weight": 0.4109
     },
     {
       "source": "560",
-      "target": "1048",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4103
     },
     {
-      "source": "1041",
-      "target": "1072",
-      "type": "related_paper",
-      "weight": 0.4097
-    },
-    {
       "source": "287",
-      "target": "1037",
+      "target": "1044",
       "type": "related_paper",
       "weight": 0.4087
     },
     {
       "source": "205",
-      "target": "1065",
+      "target": "1072",
       "type": "related_paper",
       "weight": 0.4082
     },
@@ -45221,20 +45285,20 @@
       "weight": 0.4078
     },
     {
-      "source": "926",
-      "target": "1048",
+      "source": "933",
+      "target": "1055",
       "type": "related_paper",
       "weight": 0.4077
     },
     {
-      "source": "1022",
-      "target": "1032",
+      "source": "1029",
+      "target": "1039",
       "type": "related_paper",
       "weight": 0.4075
     },
     {
       "source": "183",
-      "target": "960",
+      "target": "967",
       "type": "related_paper",
       "weight": 0.4063
     },
@@ -45270,7 +45334,7 @@
     },
     {
       "source": "865",
-      "target": "989",
+      "target": "996",
       "type": "related_paper",
       "weight": 0.4046
     },
@@ -45294,13 +45358,13 @@
     },
     {
       "source": "776",
-      "target": "926",
+      "target": "933",
       "type": "related_paper",
       "weight": 0.4028
     },
     {
       "source": "190",
-      "target": "1041",
+      "target": "1048",
       "type": "related_paper",
       "weight": 0.4024
     },
@@ -45318,15 +45382,9 @@
     },
     {
       "source": "865",
-      "target": "1065",
-      "type": "related_paper",
-      "weight": 0.4022
-    },
-    {
-      "source": "190",
       "target": "1072",
       "type": "related_paper",
-      "weight": 0.4014
+      "weight": 0.4022
     },
     {
       "source": "239",
@@ -45354,7 +45412,7 @@
     },
     {
       "source": "560",
-      "target": "993",
+      "target": "1000",
       "type": "related_paper",
       "weight": 0.4009
     },
@@ -45371,8 +45429,8 @@
       "weight": 0.3983
     },
     {
-      "source": "919",
-      "target": "1001",
+      "source": "926",
+      "target": "1008",
       "type": "related_paper",
       "weight": 0.3982
     },
@@ -45396,9 +45454,15 @@
     },
     {
       "source": "541",
-      "target": "1041",
+      "target": "1048",
       "type": "related_paper",
       "weight": 0.3959
+    },
+    {
+      "source": "190",
+      "target": "395",
+      "type": "related_paper",
+      "weight": 0.3958
     },
     {
       "source": "147",
@@ -45438,7 +45502,7 @@
     },
     {
       "source": "458",
-      "target": "1032",
+      "target": "1039",
       "type": "related_paper",
       "weight": 0.3934
     },
@@ -45453,12 +45517,6 @@
       "target": "842",
       "type": "related_paper",
       "weight": 0.3915
-    },
-    {
-      "source": "541",
-      "target": "1072",
-      "type": "related_paper",
-      "weight": 0.3903
     },
     {
       "source": "516",
@@ -45477,6 +45535,12 @@
       "target": "849",
       "type": "related_paper",
       "weight": 0.39
+    },
+    {
+      "source": "880",
+      "target": "1048",
+      "type": "related_paper",
+      "weight": 0.3896
     },
     {
       "source": "891",
@@ -45540,7 +45604,7 @@
     },
     {
       "source": "679",
-      "target": "955",
+      "target": "962",
       "type": "related_paper",
       "weight": 0.3604
     },
@@ -45551,20 +45615,20 @@
       "weight": 0.3535
     },
     {
-      "source": "955",
-      "target": "965",
+      "source": "962",
+      "target": "972",
       "type": "related_paper",
       "weight": 0.35
     },
     {
       "source": "405",
-      "target": "965",
+      "target": "972",
       "type": "related_paper",
       "weight": 0.3454
     },
     {
       "source": "123",
-      "target": "955",
+      "target": "962",
       "type": "related_paper",
       "weight": 0.3443
     }
